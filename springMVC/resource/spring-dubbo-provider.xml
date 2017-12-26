@@ -1,0 +1,15 @@
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+	      http://www.springframework.org/schema/beans/spring-beans.xsd
+	      http://www.springframework.org/schema/context
+	      http://www.springframework.org/schema/context/spring-context.xsd
+	      http://code.alibabatech.com/schema/dubbo
+	      http://code.alibabatech.com/schema/dubbo/dubbo.xsd" default-autowire="byName" default-lazy-init="false" >
+	
+	<!-- 声明需要暴露的服务接口 ref的值是实现类的名字 -->
+	<dubbo:service interface="com.dhcc.zhyl.springMVC.controller.User" ref="userController" timeout="1200000" />
+
+</beans>
