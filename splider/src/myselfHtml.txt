@@ -1,0 +1,2548 @@
+<!doctype html> 
+<html> 
+<head> 
+ <meta charset="utf-8"> 
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+ <meta name="renderer" content="webkit"> 
+ <title>搞笑图片_笑话大全_幽默笑话_搞笑段子-4399爆笑一刻</title> 
+ <meta name="description" content="4399爆笑一刻每天推出最新鲜最吸引人的笑话大全、搞笑图片，笑破你的肚子，还有搞笑段子、搞笑视频，广大玩家的犀利吐槽。快来4399爆笑一刻与笑友们一起分享你的趣事吧！"> 
+ <meta name="keywords" content="搞笑图,笑话大全,搞笑段子,幽默笑话"> 
+ <script type="text/javascript"> 
+ var WAP="http://joke.4399pk.com/wap/index-index.html"; 
+ var ua = navigator.userAgent ? navigator.userAgent.toLowerCase().replace(/-/g, "") : ''; 
+ var isMobi = ua.match(/(Android)/i) || (ua.match(/(U;)/i) && ua.match(/(Adr)/i)) || ua.match(/(iPhone|iPod)/i) || (ua.match(/(U;)/i) && ua.match(/(iPh)/i)); 
+ if(isMobi){ 
+ location.href=WAP; 
+ } 
+ var _czc = _czc || []; 
+ _czc.push(["_setAccount", "1257106870"]); 
+ </script> 
+ 
+ 
+ <style type="text/css">html body{background:url(http://f9.img4399.com/whd/5a0961cb3bf26.jpg) transparent center 231px no-repeat;}html body.wide{background:url(http://f9.img4399.com/whd/5a0961cbbd515.jpg) transparent center 231px no-repeat;}</style> 
+ <!--[if lt IE 9]> 
+ <script type="text/javascript" src="/xjs/PIE.js"></script> 
+ <![endif]--> 
+ <base target="_blank"> 
+<link href="http://joke.4399pk.com/xcss/index.css?20171110" type="text/css" rel="stylesheet"  />
+<link href="http://ptlogin.3304399.net/resource/css/base_iframe.css?20171110" type="text/css" rel="stylesheet"  />
+<script type="text/javascript" src="http://joke.4399pk.com/xjs/jquery-1.8.3.min.js?20171110" ></script>
+<script type="text/javascript" src="http://joke.4399pk.com/js/public/jquery.cookie.js?20171110" ></script>
+<script type="text/javascript" src="http://joke.4399pk.com/js/public/tools/ks.lazyimg.js?20171110" ></script>
+<script type="text/javascript" src="http://www.4399.com/jss/click_trace.js?20171110" charset="gbk"></script>
+<script type="text/javascript" src="http://joke.4399pk.com/xjs/common.js?v=1&20171110" ></script>
+<script type="text/javascript" src="http://ptlogin.3304399.net/resource/ucenter_iframe.js?20171110" ></script>
+<script type="text/javascript" src="http://joke.4399pk.com/xjs/user_valify.js?20171110" ></script></head> 
+<body onmousedown="tracking(event);" class="wide"> 
+<div class="topbar-wp"> 
+ <div class="topbar wp cf"> 
+ <div class="hdlink"> 
+ <a class="setfav" href='/url.php?url=http://joke.4399pk.com'>保存到桌面</a>|<a href="http://my.4399.com/forums/mtag-82200">爆笑论坛</a> 
+ </div> 
+ <div class="tbeq"> 
+ <div class="inner"><img src="/ximages/fixeq.png" alt="" /></div> 
+ </div> 
+ <div class="tbschwp"> 
+ <input class="txt" type="text" value="请输入搜索关键字" onfocus="this.style.color='#333';if(this.value=='请输入搜索关键字') this.value='';" onblur="this.style.color='#ccc';if(this.value=='') this.value='请输入搜索关键字';" style="color: rgb(204, 204, 204);"> 
+ <input type="submit" class="btn" value="搜索"> 
+ </div> 
+ 
+  
+ <div class="tgnav"> 
+ <span>投稿</span> 
+ <div class="inner"> 
+ <a class="it1" href="/selfdryhumor#" onclick="return meslogin();" target="_blank"><i></i>投稿段子</a> 
+ <a class="it2" href="/selfvideo#" onclick="return meslogin();" target="_blank"><i></i>投稿视频</a> 
+ </div> 
+ </div> 
+ 
+  
+ <a class="msglk" href="/message/index-p-1.html#" onclick="return meslogin();" target="_blank">消息 
+ <div id="sign" style="display: none;"> 
+ <i></i> 
+ </div> 
+ </a> 
+ 
+ <div class="logarea"> 
+ <div class="logno"> 
+ <a href="javascript:void(0);" onclick="return user_login();">登录</a>|<a href="javascript:void(0);" onclick="return user_reg();">注册</a> 
+ </div> 
+ </div> 
+ </div> 
+</div> 
+<div class="headwp"> 
+ <div class="head wp"> 
+ <a class="hdlogo" href="/">4399爆笑一刻</a> 
+ <a class="favlink" href="#" onclick="return addfav('搞笑图片_搞笑段子_幽默笑话大全-4399爆笑一刻', 'http://joke.4399pk.com/');">收藏</a> 
+ </div> 
+</div> 
+ 
+<div class="top-nav-wrap"> 
+ <div id="top-nav"> 
+ <div class="navarea"> 
+ <div class="navwp wp cf"> 
+ <a class="in-logo" href="/">4399爆笑一刻</a> 
+ <ul class="navlist cf" id="navlist"> 
+ <li  class="on"><a href="/"><em>首页</em></a></li> 
+ <li ><a href="/dryhumor/" rel='nav_joke'><em>段子</em></a></li> 
+ <li ><a href="/funnyimg/" rel='nav_pic'><em>图集</em></a></li> 
+ <li ><a href="/video/" rel='nav_vid'><em>视频</em></a></li> 
+ <li ><a href="/wonderfultalk/" rel='nav_spec'><em>哈哈笑报</em></a></li> 
+ <li ><a href="/note/"><em>瞎比比</em></a></li> 
+ </ul> 
+ </div> 
+ <script type="text/javascript" src="/?_RW_=index/mix-nav"></script> 
+ </div> 
+ </div> 
+</div> 
+<script> 
+ function meslogin(func) { 
+ $res = uc_get_uid(); 
+ if(!$res) { 
+ window.event.returnValue = false; 
+ return user_login(); 
+ } else { 
+ return true; 
+ } 
+ } 
+</script> 
+<script type="text/javascript"> 
+ var ajaxFn = function () { 
+ $.ajax({ 
+ type: "GET", 
+ url: "index.php?_RW_=index/message-msgajax-uid-"+$res+"&rand=" + Math.random(), 
+ dataType: "json", 
+ contentType: "application/json; charset=utf-8", 
+ timeout: 60000, 
+ async: true, 
+ success: function(data) { 
+ if(data.result == false) { 
+ document.getElementById('sign').style.display = "none"; 
+ window.setTimeout("ajaxFn()",20000); 
+ } else { 
+ document.getElementById('sign').style.display = "block"; 
+ window.setTimeout("ajaxFn()",20000); 
+ } 
+ } 
+ }); 
+ } 
+ 
+ $(function(){ 
+ $res = uc_get_uid(); 
+ ajaxFn(); 
+ }) 
+</script> 
+ 
+ 
+ 
+ 
+ 
+<div class="cf topbananer"> 
+  
+ <div class="tbl"><div class="inner"><a href="http://joke.4399pk.com/video/find-cate-12.html"></a></div></div> 
+  
+  
+ <div class="tbr"><div class="inner"><a href="http://joke.4399pk.com/video/find-cate-12.html"></a></div></div> 
+  
+</div> 
+ 
+<div class="cf bgline"></div> 
+<div class="guilink wp mt20 cf"> 
+ <div class="gl-left fl"> 
+ <p> 
+ <em class="vid"><a href="/video/">视频</a></em> 
+ <a class="hot" href="http://joke.4399pk.com/funnycourse/theme-id-101.html">爆笑课堂<i></i></a>|<a class="0" href="http://joke.4399pk.com/funnycourse/theme-id-114.html">王者81难</a>|<a class="0" href="http://joke.4399pk.com/video/find-cate-7.html">我的世界</a>|<a class="0" href="http://joke.4399pk.com/video/find-cate-1.html">坑爹恶搞</a>|<a class="new" href="http://joke.4399pk.com/video/find-cate-12.html">王者荣耀<i></i></a>|<a class="0" href="http://joke.4399pk.com/video/find-cate-3.html">搞笑动画</a>|<a class="0" href="http://joke.4399pk.com/video/find-cate-13.html">奥特曼</a> 
+ </p> 
+ <p> 
+ <em class="pic"><a href="/funnyimg/">图集</a></em> 
+ <a class="0" href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a>|<a class="0" href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a>|<a class="0" href="http://joke.4399pk.com/funnyimg/find-cate-6.html">鬼话连篇</a>|<a class="0" href="http://joke.4399pk.com/funnyimg/find-cate-7.html">搞笑漫画</a>|<a class="0" href="http://joke.4399pk.com/funnyimg/find-cate-9.html">傻猫傻狗</a>|<a class="0" href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a>|<a class="new" href="http://biaoqing.4399biule.com/">搞笑表情包<i></i></a> 
+ </p> 
+ </div> 
+ <div class="gl-right fr"> 
+ <em>推荐</em> 
+ <p> 
+ <a class="hot" href="http://joke.4399pk.com/wonderfultalk/17111.html">哈哈笑报<i></i></a>|<a class="0" href="http://joke.4399pk.com/note/17074.html">每日一笑</a>|<a class="0" href="http://joke.4399pk.com/note/17120.html">爆笑对话</a>|<a class="0" href="http://joke.4399pk.com/note/16877.html">爆笑哥日记</a>|<a class="0" href="http://joke.4399pk.com/note/17083.html">爆笑热点</a>|<a class="0" href="http://joke.4399pk.com/kongbu">恐怖档案</a>|<a class="0" href="http://my.4399.com/forums/thread-52966743">微信公众号</a> 
+ </p> 
+ <p> 
+ <a class="0" href="http://joke.4399pk.com/video/find-cate-14.html">酷炫格斗</a>|<a class="0" href="http://joke.4399pk.com/funnycourse/theme-id-115.html">王者WTF</a>|<a class="0" href="http://joke.4399pk.com/video/12303.html">智障的初音</a>|<a class="0" href="http://joke.4399pk.com/video/12869.html">笑到肚子疼</a>|<a class="new" href="http://joke.4399pk.com/funnycourse/theme-id-118.html">王者同人客栈<i></i></a>|<a class="0" href="http://joke.4399pk.com/video/15617.html">吃鸡版斗地主</a> 
+ </p> 
+ </div> 
+</div> 
+ 
+ 
+<div class="area1 wp mt20"> 
+ <div class="area1l fl"> 
+ <div class="slide" id="slider_content2"> 
+ <ul class="slidebd slide-pic2"> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/video/17016.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1e2449a8e82.jpg" alt="坑爹恶搞" /> 
+ <div class="mk"> 
+ <em>坑爹恶搞</em> 
+ <p>这岛国朋友还真是热情如火</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/funnycourse/16865.html"> 
+ <img lz-src="http://f9.img4399.com/whd/5a17d964534dd.jpg" alt="爆笑课堂" /> 
+ <div class="mk"> 
+ <em>爆笑课堂</em> 
+ <p>3-22期：爱我，你怕了么？</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/funnycourse/16846.html"> 
+ <img lz-src="http://f9.img4399.com/whd/5a17b0b6c235f.jpg" alt="王者八十一难" /> 
+ <div class="mk"> 
+ <em>王者八十一难</em> 
+ <p>31：女娲技能惨遭克制，这英雄值得买吗？</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ </ul> 
+ <ul class="slidedot slide-btn2"> 
+ <li class="on"></li> 
+ <li></li><li></li> 
+ </ul> 
+ <a class="prev slide-prev2" href="javascript:void(0);" style="display:none"><i></i></a> 
+ <a class="next slide-next2" href="javascript:void(0);" style="display:none"><i></i></a> 
+ </div> 
+ <div class="area1ad"> 
+ 
+ </div> 
+ </div> 
+ <div class="area1r fr"> 
+ <ul class="cf"> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/video/16849.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1e2449e8320.jpg" alt="当怪物们学会了抢银行" /> 
+ <em>当怪物们学会了抢银行</em> 
+ <i class="it it1">我的世界</i> 
+ <i class="ico ico1">我的世界</i> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/note/17120.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1e68139009c.jpg" alt="当女友掉进水里..." /> 
+ <em>当女友掉进水里...</em> 
+ <i class="it it1">爆笑对话</i> 
+ <i class="ico ico5">爆笑对话</i> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/funnycourse/17129.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1e526b28194.jpg" alt="吕布多次表白遭貂蝉拒绝" /> 
+ <em>吕布多次表白遭貂蝉拒绝</em> 
+ <i class="it it1">王者同人</i> 
+ <i class="ico ico1">王者同人</i> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/kongbu/824.html"> 
+ <img data-src="http://f1.img4399.com/whd~5a1e0da9ba7fb.jpg" alt="屠魔诗人：未来使者" /> 
+ <em>屠魔诗人：未来使者</em> 
+ <i class="it it1">恐怖档案</i> 
+ <i class="ico ico3">恐怖档案</i> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/note/17074.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1ccd5dbe073.jpg" alt="孩子你也太早熟了吧" /> 
+ <em>孩子你也太早熟了吧</em> 
+ <i class="it it1">每日一笑</i> 
+ <i class="ico ico5">每日一笑</i> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/wonderfultalk/17111.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1e2af927caa.jpg" alt="易烊千玺私生活曝光！" /> 
+ <em>易烊千玺私生活曝光！</em> 
+ <i class="it it1">哈哈笑报</i> 
+ <i class="ico ico4">哈哈笑报</i> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/note/17083.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1cff1c776cc.jpg" alt="万恶的家长会来了！" /> 
+ <em>万恶的家长会来了！</em> 
+ <i class="it it1">爆笑接龙</i> 
+ <i class="ico ico5">爆笑接龙</i> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://joke.4399pk.com/video/17015.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1cd54d7f7df.jpg" alt="啥呀？奥特曼也要考试吗" /> 
+ <em>啥呀？奥特曼也要考试吗</em> 
+ <i class="it it1">奥特曼</i> 
+ <i class="ico ico1">奥特曼</i> 
+ </a> 
+ </li> 
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="area2 wp mt20"> 
+ <div class="area2l fl"> 
+ <div class="tithd"> 
+ <em class="tit1"><span>爆笑推荐</span></em> 
+ <div class="tithdlk"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a>|<a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a>|<a href="http://joke.4399pk.com/video/find-cate-12.html">王者荣耀</a>|<a href="http://joke.4399pk.com/video/find-cate-7.html">我的世界</a>|<a href="http://joke.4399pk.com/video/find-cate-3.html">搞笑动画</a></div> 
+ </div> 
+ <ul class="recolist"> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17118.html"> 
+ <img src="http://f9.img4399.com/whd/5a1e21b725d73.gif" alt="" /> 
+ 友情破碎的真正原因 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">25P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-2.html">搞笑GIF</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>190</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17119.html"> 
+ <img src="http://f9.img4399.com/whd/5a1e24f8bd288.jpg" alt="" /> 
+ 我的世界：建造美式大房子 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">31P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-3.html">奇闻趣事</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>147</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17154.html"> 
+ <img src="http://f9.img4399.com/whd/5a1e6e8aa1310.jpg" alt="" /> 
+ 马疯子的故事·中国诡实录 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">84P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-6.html">鬼话连篇</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>0</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17117.html"> 
+ <img src="http://f9.img4399.com/whd/5a1e1ff68faa0.jpg" alt="" /> 
+ 戴上美瞳，你就是男主角 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">25P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-1.html">搞笑囧图</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>134</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17153.html"> 
+ <img src="http://f9.img4399.com/whd/5a1e6c76c83a8.jpg" alt="" /> 
+ 二狗：你们有劳纸圆吗？ 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">25P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-9.html">傻猫傻狗</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>0</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17082.html"> 
+ <img src="http://f9.img4399.com/whd/5a1cd07e8ef39.jpg" alt="" /> 
+ 照镜子时候的我们 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">25P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-1.html">搞笑囧图</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>340</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17078.html"> 
+ <img src="http://f9.img4399.com/whd/5a1cc43fc948b.gif" alt="" /> 
+ 我的脑袋里想的全是学习！ 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">25P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-2.html">搞笑GIF</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>467</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17080.html"> 
+ <img src="http://f9.img4399.com/whd/5a1cc900cfd21.jpg" alt="" /> 
+ 马疯子·中国诡实录 
+  
+ <span class="picico" ></span> 
+ <span class="pnum" style="display: block;">65P</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/funnyimg/find-cate-6.html">鬼话连篇</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>336</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17103.html"> 
+ <img src="http://vedio.5054399.com/video/upload/1511852795.jpg" alt="" /> 
+ 阿福又双叒叕说骚话了 
+  
+ <span class="vidico" ></span> 
+ <span class="pnum" style="display: block;">02:05</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/video/find-cate-1.html">坑爹恶搞</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>188</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17075.html"> 
+ <img src="http://vedio.5054399.com/video/upload/1511857686.jpg" alt="" /> 
+ Faker，正宗火影劫！ 
+  
+ <span class="vidico" ></span> 
+ <span class="pnum" style="display: block;">02:16</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/video/find-cate-4.html">LOL搞笑</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>88</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17081.html"> 
+ <img src="http://vedio.5054399.com/video/upload/1511836062.jpg" alt="" /> 
+ 偷偷放屁的动物大合集 
+  
+ <span class="vidico" ></span> 
+ <span class="pnum" style="display: block;">02:32</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/video/find-cate-2.html">萌娃萌宠</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>86</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17064.html"> 
+ <img src="http://vedio.5054399.com/video/upload/1511602947.jpg" alt="" /> 
+ 兄弟你这比看鬼畜还洗脑啊 
+  
+ <span class="vidico" ></span> 
+ <span class="pnum" style="display: block;">02:37</span> 
+  
+ </a> 
+ <div class="info"> 
+ <span class="fl it"><a href="/video/find-cate-1.html">坑爹恶搞</a></span> 
+ <span class="fr"><i class="ico-good"></i><em>90</em></span> 
+ </div> 
+ </li> 
+  
+ </ul> 
+ </div> 
+ <div class="area2r fr"> 
+ <div class="tithd"> 
+ <em class="tit2"><span>原创图文</span></em> 
+ <div class="tithdlk"><a href="http://joke.4399pk.com/wonderfultalk/">哈哈笑报</a>|<a href="http://joke.4399pk.com/note-cate-2">每日一笑</a>|<a href="http://joke.4399pk.com/note/index-cate-5.html">爆笑哥日记</a></div> 
+ </div> 
+ 
+ <div class="ztarea"> 
+ <ul class="ztlist"> 
+  
+ <li class="on"> 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/wonderfultalk/16822.html">这样玩女朋友，太污了</a><i class="hotico"></i></em> 
+ <a class="it" href="/wonderfultalk/">哈哈笑报</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/wonderfultalk/16822.html"><img src="http://f9.img4399.com/whd/5a16b32fee93e.jpg" alt="这样玩女朋友，太污了"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/wonderfultalk/16822.html">这样玩女朋友，太污了</a><i class="hotico"></i></em> 
+ <span class="it"><a href="/wonderfultalk/">哈哈笑报</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/17062.html">第142期：爆笑哥竟是这种衣冠禽兽</a><i class="ico"></i></em> 
+ <a class="it" href="/note/index-cate-1.html">爆笑对话</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/17062.html"><img src="http://f9.img4399.com/whd/5a1bb4b768c99.jpg" alt="第142期：爆笑哥竟是这种衣冠禽兽"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/17062.html">第142期：爆笑哥竟是这种衣冠禽兽</a><i class="ico"></i></em> 
+ <span class="it"><a href="/note/index-cate-1.html">爆笑对话</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/16877.html">50话：为了上位，竟穿这种衣服</a><i class="newico"></i></em> 
+ <a class="it" href="/note/index-cate-5.html">爆笑哥日记</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/16877.html"><img src="http://f9.img4399.com/whd/5a18dc5f6a9a6.jpg" alt="50话：为了上位，竟穿这种衣服"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/16877.html">50话：为了上位，竟穿这种衣服</a><i class="newico"></i></em> 
+ <span class="it"><a href="/note/index-cate-5.html">爆笑哥日记</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/wonderfultalk/16511.html">超过99%的人被这样骗过</a><i class="ico"></i></em> 
+ <a class="it" href="/wonderfultalk/">哈哈笑报</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/wonderfultalk/16511.html"><img src="http://f9.img4399.com/whd/5a0e3f66bf539.jpg" alt="超过99%的人被这样骗过"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/wonderfultalk/16511.html">超过99%的人被这样骗过</a><i class="ico"></i></em> 
+ <span class="it"><a href="/wonderfultalk/">哈哈笑报</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/16880.html">老司机今天终于翻车了！</a><i class="ico"></i></em> 
+ <a class="it" href="/note/index-cate-2.html">每日一笑</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/16880.html"><img src="http://f9.img4399.com/whd/5a18d97a5215c.jpg" alt="老司机今天终于翻车了！"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/16880.html">老司机今天终于翻车了！</a><i class="ico"></i></em> 
+ <span class="it"><a href="/note/index-cate-2.html">每日一笑</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/16834.html">以为我会那么轻易放过你</a><i class="ico"></i></em> 
+ <a class="it" href="/note/index-cate-2.html">每日一笑</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/16834.html"><img src="http://f9.img4399.com/whd/5a1784ab36a5a.jpg" alt="以为我会那么轻易放过你"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/16834.html">以为我会那么轻易放过你</a><i class="ico"></i></em> 
+ <span class="it"><a href="/note/index-cate-2.html">每日一笑</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/16786.html">第140期：就是吃硬不吃软~</a><i class="ico"></i></em> 
+ <a class="it" href="/note/index-cate-1.html">爆笑对话</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/16786.html"><img src="http://f9.img4399.com/whd/5a1633df12965.jpg" alt="第140期：就是吃硬不吃软~"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/16786.html">第140期：就是吃硬不吃软~</a><i class="ico"></i></em> 
+ <span class="it"><a href="/note/index-cate-1.html">爆笑对话</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/16785.html">【爆笑接龙】早恋被老师发现了！</a><i class="ico"></i></em> 
+ <a class="it" href="/note/index-cate-4.html">爆笑热点</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/16785.html"><img src="http://f9.img4399.com/whd/5a1552333fe49.jpg" alt="【爆笑接龙】早恋被老师发现了！"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/16785.html">【爆笑接龙】早恋被老师发现了！</a><i class="ico"></i></em> 
+ <span class="it"><a href="/note/index-cate-4.html">爆笑热点</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/16754.html">第139期：变态啊，有袭胸狂魔出没</a><i class="hotico"></i></em> 
+ <a class="it" href="/note/index-cate-1.html">爆笑对话</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/16754.html"><img src="http://f9.img4399.com/whd/5a14e94947a57.jpg" alt="第139期：变态啊，有袭胸狂魔出没"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/16754.html">第139期：变态啊，有袭胸狂魔出没</a><i class="hotico"></i></em> 
+ <span class="it"><a href="/note/index-cate-1.html">爆笑对话</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ <li > 
+ <div class="pt1"> 
+ <em class="lk"><a href="http://joke.4399pk.com/note/14476.html">投稿通道已开，爆笑从此有你做主！</a><i class="ico"></i></em> 
+ <a class="it" href="/note/index-cate-4.html">爆笑热点</a> 
+ </div> 
+ 
+ <div class="zt-spec"> 
+ <a class="img" href="http://joke.4399pk.com/note/14476.html"><img src="http://f9.img4399.com/whd/59e478a691218.jpg" alt="投稿通道已开，爆笑从此有你做主！"></a> 
+ <div class="con"> 
+ <em class="tit"><a href="http://joke.4399pk.com/note/14476.html">投稿通道已开，爆笑从此有你做主！</a><i class="ico"></i></em> 
+ <span class="it"><a href="/note/index-cate-4.html">爆笑热点</a></span> 
+ </div> 
+ </div> 
+ </li> 
+  
+ 
+ </ul> 
+ </div> 
+ </div> 
+</div> 
+ 
+<div class="area_video"></div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit4"><a href="/video/">搞笑视频</a></em> 
+ <div class="tithdlk"><a href="http://joke.4399pk.com/video/find-cate-1.html">坑爹恶搞</a>|<a href="http://joke.4399pk.com/video/find-cate-7.html">我的世界</a>|<a href="http://joke.4399pk.com/video/find-cate-12.html">王者荣耀</a>|<a href="http://joke.4399pk.com/video/find-cate-3.html">搞笑动画</a>|<a href="http://joke.4399pk.com/video/find-cate-4.html">LOL搞笑</a></div> 
+ <a class="morelk" href="/video/">更多</a> 
+  
+ </div> 
+ <div class="vlist"> 
+ <ul class="cf twoline"> 
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17011.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511603359.jpg" alt="大吉大利，荒岛吃鸡！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">04:10</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/17011.html"> 
+ <div class="tit">大吉大利，荒岛吃鸡！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">5789</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">82</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16848.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511502179.jpg" alt="空岛战争谁是最后赢家" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">07:08</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16848.html"> 
+ <div class="tit">空岛战争谁是最后赢家</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">10288</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">176</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17012.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511603143.jpg" alt="如果动物吃了超能力果实..." /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">03:35</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/17012.html"> 
+ <div class="tit">如果动物吃了超能力果实...</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">4991</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">188</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17014.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511601943.jpg" alt="听到这叫声后，就回不去了" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">00:58</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/17014.html"> 
+ <div class="tit">听到这叫声后，就回不去了</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">2992</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">187</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16831.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511485683.jpg" alt="我这一拳下去可不得了！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:46</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16831.html"> 
+ <div class="tit">我这一拳下去可不得了！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">29092</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">288</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/17010.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511603174.jpg" alt="伞的第一个目标就这么强？" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">06:04</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/17010.html"> 
+ <div class="tit">伞的第一个目标就这么强？</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">9994</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">291</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16866.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511509997.jpg" alt="恐怖恶作剧吓哭清洁工" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">09:47</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16866.html"> 
+ <div class="tit">恐怖恶作剧吓哭清洁工</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">9191</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">185</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16798.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511349844.jpg" alt="庄周的鲲原来这么美味！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">03:02</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16798.html"> 
+ <div class="tit">庄周的鲲原来这么美味！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">77292</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">389</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16794.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511406168.jpg" alt="我不仅说骚话,还会唱骚话" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:49</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16794.html"> 
+ <div class="tit">我不仅说骚话,还会唱骚话</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">20890</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">386</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16793.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1b7198c3dc1.jpg" alt="都督吃鸡，绝对不一般" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">16:50</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16793.html"> 
+ <div class="tit">都督吃鸡，绝对不一般</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">47998</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">295</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16796.html"> 
+ <img data-src="http://f9.img4399.com/whd/5a1b716d69c1e.jpg" alt="没想到动漫还能这样玩" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">03:23</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16796.html"> 
+ <div class="tit">没想到动漫还能这样玩</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">17796</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">393</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16792.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511405875.jpg" alt="贝爷目标，成为嘎嘣脆大师" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:18</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16792.html"> 
+ <div class="tit">贝爷目标，成为嘎嘣脆大师</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">104590</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">686</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/video/find-cate-1.html">坑爹恶搞</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/video/find-cate-1.html">更多</a> 
+  
+ </div> 
+ <div class="vlist"> 
+ <ul class="cf oneline"> 
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16764.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511261798.jpg" alt="还有这么刺激的游戏？" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">04:21</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16764.html"> 
+ <div class="tit">还有这么刺激的游戏？</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">97693</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">291</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16744.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511258756.jpg" alt="天道有轮回，净土绕过谁" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:59</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16744.html"> 
+ <div class="tit">天道有轮回，净土绕过谁</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">52988</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">386</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16765.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511261875.jpg" alt="4399竟然也被鬼畜了？" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:47</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16765.html"> 
+ <div class="tit">4399竟然也被鬼畜了？</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">63098</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">495</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16742.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511258656.jpg" alt="没错，我又回来打电脑了" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">06:05</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16742.html"> 
+ <div class="tit">没错，我又回来打电脑了</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">114890</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">486</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16698.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511182812.jpg" alt="你能听出来这是谁的台词吗" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:28</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16698.html"> 
+ <div class="tit">你能听出来这是谁的台词吗</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">143594</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">488</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16768.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511261942.jpg" alt="金木研变大渣男，不要脸！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">06:41</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16768.html"> 
+ <div class="tit">金木研变大渣男，不要脸！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">31391</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">286</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/video/find-cate-12.html">王者荣耀</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/video/find-cate-12.html">更多</a> 
+  
+ </div> 
+ <div class="vlist"> 
+ <ul class="cf oneline"> 
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16790.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511405738.jpg" alt="原谅鼻祖关羽是这么来的！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:29</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16790.html"> 
+ <div class="tit">原谅鼻祖关羽是这么来的！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">66995</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">390</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16758.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511261912.jpg" alt="这冰淇淋好吃不贵还送人头" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:50</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16758.html"> 
+ <div class="tit">这冰淇淋好吃不贵还送人头</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">144695</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">391</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16746.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511258499.jpg" alt="好好活着不好，非要吓自己" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:25</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16746.html"> 
+ <div class="tit">好好活着不好，非要吓自己</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">119194</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">390</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16564.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510921966.jpg" alt="自带六杀属性的花木兰？" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">03:02</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16564.html"> 
+ <div class="tit">自带六杀属性的花木兰？</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">97097</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">495</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16562.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510921876.jpg" alt="难道这是传说中的杀人足球" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:39</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16562.html"> 
+ <div class="tit">难道这是传说中的杀人足球</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">183097</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">493</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16538.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510886462.jpg" alt="禽兽扁鹊，放开我的甄姬！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:18</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16538.html"> 
+ <div class="tit">禽兽扁鹊，放开我的甄姬！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">254196</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">592</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/video/find-cate-7.html">我的世界</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/video/find-cate-7.html">更多</a> 
+  
+ </div> 
+ <div class="vlist"> 
+ <ul class="cf oneline"> 
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16829.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511485734.jpg" alt="跟着美女老师跳啦啦操！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">07:03</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16829.html"> 
+ <div class="tit">跟着美女老师跳啦啦操！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">36698</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">395</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16563.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510921940.jpg" alt="钻石苹果竟然能召唤Notch" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">06:10</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16563.html"> 
+ <div class="tit">钻石苹果竟然能召唤Notch</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">123396</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">393</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16561.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510921842.jpg" alt="如果我的世界什么都能创造" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">11:18</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16561.html"> 
+ <div class="tit">如果我的世界什么都能创造</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">103995</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">390</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16497.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510743996.jpg" alt="你确定这游戏叫MC？" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">03:48</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16497.html"> 
+ <div class="tit">你确定这游戏叫MC？</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">348092</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">690</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16397.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510578854.jpg" alt="新手一定会犯的七个错误" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">04:35</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16397.html"> 
+ <div class="tit">新手一定会犯的七个错误</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">197893</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">491</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/15413.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1509700879.jpg" alt="him的地位，无人能撼动" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">04:36</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/15413.html"> 
+ <div class="tit">him的地位，无人能撼动</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">259798</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1495</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/video/find-cate-3.html">搞笑动画</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/video/find-cate-3.html">更多</a> 
+  
+ </div> 
+ <div class="vlist"> 
+ <ul class="cf oneline"> 
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16830.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511485773.jpg" alt="活见鬼啊，美少女蜘蛛侠？" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">03:12</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16830.html"> 
+ <div class="tit">活见鬼啊，美少女蜘蛛侠？</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">11092</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">288</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16832.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511485811.jpg" alt="雷神怎么变成这样了？" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">06:09</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16832.html"> 
+ <div class="tit">雷神怎么变成这样了？</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">4390</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">186</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16700.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1511182740.jpg" alt="没想到吃顿饭也这么残忍" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:10</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16700.html"> 
+ <div class="tit">没想到吃顿饭也这么残忍</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">123195</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">290</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16026.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510385315.jpg" alt="惊！愚公移山的真相曝光" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:48</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16026.html"> 
+ <div class="tit">惊！愚公移山的真相曝光</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">52990</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">386</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/15675.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510134258.jpg" alt="幕后黑手居然是飞行员！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">03:06</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/15675.html"> 
+ <div class="tit">幕后黑手居然是飞行员！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">61290</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">986</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/15378.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1509706997.jpg" alt="谁说海绵宝宝不会极乐净土" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:50</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/15378.html"> 
+ <div class="tit">谁说海绵宝宝不会极乐净土</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">202194</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1091</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/video/find-cate-14.html">酷炫格斗</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/video/find-cate-14.html">更多</a> 
+  
+ </div> 
+ <div class="vlist"> 
+ <ul class="cf oneline"> 
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16557.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510921909.jpg" alt="这小黑是谁？怎么这么强！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">02:49</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16557.html"> 
+ <div class="tit">这小黑是谁？怎么这么强！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">168696</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">590</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16577.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510971332.jpg" alt="为什么，以前我们可是朋友" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">06:44</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16577.html"> 
+ <div class="tit">为什么，以前我们可是朋友</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">18390</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">286</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16400.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510579005.jpg" alt="伞皇与老爷子的最终之战" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">05:33</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16400.html"> 
+ <div class="tit">伞皇与老爷子的最终之战</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">68798</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">396</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/16392.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1510569735.gif" alt="我们是最杰出的火柴人刺客" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">09:35</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/16392.html"> 
+ <div class="tit">我们是最杰出的火柴人刺客</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">165297</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">594</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/15596.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1509957964.jpg" alt="听说，那个蓝人又回来了" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">01:38</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/15596.html"> 
+ <div class="tit">听说，那个蓝人又回来了</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">63095</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">392</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/video/15213.html"> 
+ <img data-src="http://vedio.5054399.com/video/upload/1509438394.jpg" alt="羁绊的战斗，追逐梦想！" /> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ <span class="vtime">04:44</span> 
+ </a> 
+ <a class="con" href="http://joke.4399pk.com/video/15213.html"> 
+ <div class="tit">羁绊的战斗，追逐梦想！</div> 
+ <div class="info"> 
+ <span class="fl"><i class="ico-vid"></i><em class="wannum">103494</em></span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">490</em></span> 
+ </div> 
+ </a> 
+ </li> 
+  
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+ 
+<div class="area3 wp cf mt20"> 
+ <div class="area3l fl"> 
+ <div class="tithd"> 
+ <em class="tit"><a href="/video/">原创视频</a></em> 
+ <a class="morelk" href="/video/">更多</a> 
+ </div> 
+ <ul class="specitlist oneline"> 
+  
+ <li class=""> 
+ <a class="img" href="http://joke.4399pk.com/funnycourse/15757.html"> 
+ <em class="ico-it">原创</em> 
+ <span class="vtime">11:03</span> 
+ <span class="imgwp"> 
+ <img src="http://f9.img4399.com/whd/5a065930280ed.jpg" alt=""> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ </span> 
+ </a> 
+ <a class="link" href="http://joke.4399pk.com/funnycourse/15757.html">出家人也好流行色？</a> 
+ <div class="info"> 
+ <a href="http://joke.4399pk.com/funnycourse/theme-id-101.html">爆笑课堂</a> 
+ </div> 
+ </li> 
+  
+ <li class=""> 
+ <a class="img" href="http://joke.4399pk.com/funnycourse/16543.html"> 
+ <em class="ico-it">原创</em> 
+ <span class="vtime">05:27</span> 
+ <span class="imgwp"> 
+ <img src="http://vedio.5054399.com/video/upload/1510897192.jpg" alt=""> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ </span> 
+ </a> 
+ <a class="link" href="http://joke.4399pk.com/funnycourse/16543.html">不卖队友，如何躲掉诸葛亮大招？</a> 
+ <div class="info"> 
+ <a href="http://joke.4399pk.com/funnycourse/theme-id-114.html">王者八十一难</a> 
+ </div> 
+ </li> 
+  
+ <li class=""> 
+ <a class="img" href="http://joke.4399pk.com/funnycourse/16552.html"> 
+ <em class="ico-it">原创</em> 
+ <span class="vtime">05:53</span> 
+ <span class="imgwp"> 
+ <img src="http://vedio.5054399.com/video/upload/1510911322.jpg" alt=""> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ </span> 
+ </a> 
+ <a class="link" href="http://joke.4399pk.com/funnycourse/16552.html">吃货不变胖原来要耍心机</a> 
+ <div class="info"> 
+ <a href="http://joke.4399pk.com/funnycourse/theme-id-117.html">游戏就酱玩</a> 
+ </div> 
+ </li> 
+  
+ <li class=""> 
+ <a class="img" href="http://joke.4399pk.com/funnycourse/16760.html"> 
+ <em class="ico-it">原创</em> 
+ <span class="vtime">08:47</span> 
+ <span class="imgwp"> 
+ <img src="http://vedio.5054399.com/video/upload/1511330375.jpg" alt=""> 
+ <span class="mk"></span> 
+ <span class="ico"></span> 
+ </span> 
+ </a> 
+ <a class="link" href="http://joke.4399pk.com/funnycourse/16760.html">庄周的鲲励志要当主角</a> 
+ <div class="info"> 
+ <a href="http://joke.4399pk.com/funnycourse/theme-id-118.html">王者同人客栈</a> 
+ </div> 
+ </li> 
+  
+ </ul> 
+ </div> 
+ <div class="area3r fr"> 
+ <div class="tithd"> 
+ <em class="tit"><a href="/video/">原创视频栏目</a></em> 
+ <a class="morelk" href="/video/">更多</a> 
+ </div> 
+ <ul class="specit cf oneline"> 
+  
+ <li> 
+ <a class="img" href="/funnycourse/theme-id-101.html"><img src="http://f9.img4399.com/whd/5954667b4dc73.jpg" alt="" /><em>爆笑课堂</em></a> 
+  
+ <div class="info">主持人- <a href="http://joke.4399pk.com/user-id-1601842588.html">BB同学</a></div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="/funnycourse/theme-id-114.html"><img src="http://f9.img4399.com/whd/59bb7ad3b58b9.jpg" alt="" /><em>王者八十一难</em></a> 
+  
+ <div class="info">主持人- <a href="http://zr.4399pk.com/uu/">UU</a></div> 
+ </li> 
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="area_image"></div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit6"><a href="/funnyimg/">搞笑图集</a></em> 
+ <div class="tithdlk"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a>|<a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a>|<a href="http://joke.4399pk.com/funnyimg/find-cate-6.html">鬼话连篇</a></div> 
+ <a class="morelk" href="/funnyimg/">更多</a> 
+  
+ 
+ </div> 
+ <div class="plist"> 
+ <ul class="cf twoline"> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17024.html"><img data-src="http://f9.img4399.com/whd/5a1b7816edd8c.jpg" alt="原来路飞有个妹妹" />原来路飞有个妹妹<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">489</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17073.html"><img data-src="http://f9.img4399.com/whd/5a1cc6883acde.jpg" alt="差点被这些失败全景照笑死" />差点被这些失败全景照笑死<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">178</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17023.html"><img data-src="http://f9.img4399.com/whd/5a1b770279bfb.gif" alt="上课老师提问时是这样的" />上课老师提问时是这样的<span class="pnum">24P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">610</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17063.html"><img data-src="http://f9.img4399.com/whd/5a1baf53e7599.jpg" alt="原来世界上奇葩这么多" />原来世界上奇葩这么多<span class="pnum">30P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">390</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17100.html"><img data-src="http://f9.img4399.com/whd/5a1d0919c5ad8.jpg" alt="二狗一生放荡不羁爱自由" />二狗一生放荡不羁爱自由<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-9.html">傻猫傻狗</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">283</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16977.html"><img data-src="http://f9.img4399.com/whd/5a1a291982ff6.jpg" alt="奥特曼这样飞走的真正原因" />奥特曼这样飞走的真正原因<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">852</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/17025.html"><img data-src="http://f9.img4399.com/whd/5a1b79e40b8d4.jpg" alt="目击者·我才不会被女孩子欺负呢" />目击者·我才不会被女孩子欺负呢<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-7.html">搞笑漫画</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">111</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16883.html"><img data-src="http://f9.img4399.com/whd/5a18e04e6273d.jpg" alt="没想到你是这样的柯南！" />没想到你是这样的柯南！<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1473</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16976.html"><img data-src="http://f9.img4399.com/whd/5a1a24f8ee152.gif" alt="让大家见识一下真正的高手" />让大家见识一下真正的高手<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1181</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16863.html"><img data-src="http://f9.img4399.com/whd/5a17d0018d661.jpg" alt="豌豆与僵尸不可告人的秘密" />豌豆与僵尸不可告人的秘密<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1220</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16974.html"><img data-src="http://f9.img4399.com/whd/5a1a2251ad247.jpg" alt="阴森恐怖的蛇你敢看吗？" />阴森恐怖的蛇你敢看吗？<span class="pnum">22P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">213</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16975.html"><img data-src="http://f9.img4399.com/whd/5a1a23fd2f674.jpg" alt="旧家具·中国诡实录" />旧家具·中国诡实录<span class="pnum">57P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-6.html">鬼话连篇</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">188</em></span> 
+ </div> 
+ </li> 
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/funnyimg/find-cate-1.html">更多</a> 
+  
+ 
+ </div> 
+ <div class="plist"> 
+ <ul class="cf oneline"> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16755.html"><img data-src="http://f9.img4399.com/whd/5a14eb7ba8642.jpg" alt="谁来解救一下静香？" />谁来解救一下静香？<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1039</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16708.html"><img data-src="http://f9.img4399.com/whd/5a13a129213c7.jpg" alt="小新干了什么？用这么多纸" />小新干了什么？用这么多纸<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1052</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16610.html"><img data-src="http://f9.img4399.com/whd/5a0fd8240f505.jpg" alt="大雄他们到底在干嘛？" />大雄他们到底在干嘛？<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1238</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16573.html"><img data-src="http://f9.img4399.com/whd/5a0fa5c6c8be2.jpg" alt="这样的怪盗基德柯南敢抓吗" />这样的怪盗基德柯南敢抓吗<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1056</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/15751.html"><img data-src="http://f9.img4399.com/whd/5a05568acafcc.jpg" alt="静香竟然要当着大雄面脱衣" />静香竟然要当着大雄面脱衣<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">2332</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16787.html"><img data-src="http://f9.img4399.com/whd/5a163522d358c.jpg" alt="由此图求马里奥能活吗？" />由此图求马里奥能活吗？<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-1.html">搞笑囧图</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">661</em></span> 
+ </div> 
+ </li> 
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/funnyimg/find-cate-2.html">更多</a> 
+  
+ 
+ </div> 
+ <div class="plist"> 
+ <ul class="cf oneline"> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16799.html"><img data-src="http://f9.img4399.com/whd/5a1d036feacd1.jpg" alt="葫芦娃里最骚的竟是他？" />葫芦娃里最骚的竟是他？<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1808</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16844.html"><img data-src="http://f9.img4399.com/whd/5a178d0e91157.jpg" alt="真性感，它居然转过来了！" />真性感，它居然转过来了！<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1849</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16711.html"><img data-src="http://f9.img4399.com/whd/5a13eccba5a1c.gif" alt="吃鸡前传之神与神之战" />吃鸡前传之神与神之战<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">1405</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16612.html"><img data-src="http://f9.img4399.com/whd/5a0fda3fe7429.gif" alt="丧尸神马的都是辣鸡！" />丧尸神马的都是辣鸡！<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">2017</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16434.html"><img data-src="http://f9.img4399.com/whd/5a0bac015e1c1.jpg" alt="哆啦A梦竟瞒大雄做这种事" />哆啦A梦竟瞒大雄做这种事<span class="pnum">24P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">2051</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16410.html"><img data-src="http://f9.img4399.com/whd/5a0a5c68dcf16.jpg" alt="这样的妹纸你敢要吗？" />这样的妹纸你敢要吗？<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-2.html">搞笑GIF</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">2646</em></span> 
+ </div> 
+ </li> 
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+<div class="wp mt20"> 
+ <div class="tithd"> 
+  
+ <em class="tit"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a></em> 
+ <a class="morelk" href="http://joke.4399pk.com/funnyimg/find-cate-3.html">更多</a> 
+  
+ 
+ </div> 
+ <div class="plist"> 
+ <ul class="cf oneline"> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16884.html"><img data-src="http://f9.img4399.com/whd/5a18e235480ab.jpg" alt="世界上最诡异的地坑" />世界上最诡异的地坑<span class="pnum">23P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">301</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16649.html"><img data-src="http://f9.img4399.com/whd/5a123b9e22ab9.jpg" alt="这些墓碑也太幽默了" />这些墓碑也太幽默了<span class="pnum">22P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">704</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16571.html"><img data-src="http://f9.img4399.com/whd/5a0fa30e53be8.jpg" alt="开轮回眼终于看清这些图了" />开轮回眼终于看清这些图了<span class="pnum">21P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">332</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16541.html"><img data-src="http://f9.img4399.com/whd/5a0e5861f26e4.jpg" alt="这才是乐高的神妙用啊" />这才是乐高的神妙用啊<span class="pnum">21P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">546</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/15870.html"><img data-src="http://f9.img4399.com/whd/5a066cd61630a.jpg" alt="英雄开场特效你能认出几位" />英雄开场特效你能认出几位<span class="pnum">21P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">795</em></span> 
+ </div> 
+ </li> 
+  
+ <li> 
+ <a class="img" href="http://joke.4399pk.com/funnyimg/16492.html"><img data-src="http://f9.img4399.com/whd/5a0cfd1ab1424.jpg" alt="据说写轮眼都看不清这些图" />据说写轮眼都看不清这些图<span class="pnum">25P</span></a> 
+ <div class="info"> 
+ <span class="fl it"><a href="http://joke.4399pk.com/funnyimg/find-cate-3.html">奇闻趣事</a> 
+ </span> 
+ <span class="fr"><i class="ico-good"></i><em class="wannum">678</em></span> 
+ </div> 
+ </li> 
+  
+ </ul> 
+ </div> 
+</div> 
+ 
+ 
+<div class="area4 cf wp mt20"> 
+ <div class="area4l fl"> 
+ <div class="tithd"> 
+ <em class="tit5"><a href="/dryhumor/index.html">搞笑段子</a></em> 
+ <div class="tithdlk"><a href="http://joke.4399pk.com/dryhumor/tag-name-内涵.html">内涵</a>|<a href="http://joke.4399pk.com/dryhumor/tag-name-糗事.html">糗事</a></div> 
+ <a class="morelk" href="/dryhumor/index.html">更多</a> 
+ </div> 
+ 
+ <ul class="jokeit cf"> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-1357069101.html"><img data-src="http://a.img4399.com/1357069101/middle" alt="独~断空止水" />独~断空止水</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17147.html">A:一个女生经常帮助你，扶持你，对你不懂的都会教你，对你会有密切的关注，这说明什么？<br />
+B：那个女生开始喜欢你了？<br />
+A：不，是她觉得智障也需要关爱。</a></div> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17147.html"><i class="ico-msg"></i>0</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17147" href="#"><i class="ico-good"></i><span>0</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="A:一个女生经常帮助你"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-989197240.html"><img data-src="http://a.img4399.com/989197240/middle" alt="爆笑哥" />爆笑哥</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17113.html">今天周末，身为一只单身狗的我在家里休息!&nbsp;&nbsp;<br />
+突然接到一个陌生电话。<br />
+竟然是我妈打来的,她说，让我去某商场接她，她手机没电了，借人家的手机，然后就挂了电话!&nbsp;&nbsp;<br />
+我赶到某商场，老妈一脸激动的跟我说，快快，快把刚才的号码存起来，小姑娘太漂亮了！<br />
+我特意借她的手机，我问过她了，她也是单身！！！<br />
+我……</a></div> 
+  
+ <a class="jokeimg jokeimgbig" href="http://joke.4399pk.com/dryhumor/17113.html"> 
+ <img class="bdr" data-src="http://f9.img4399.com/whd/water_5a1e09ea61e0d.jpg#width_396-height_250" alt="机智" /> 
+ <span class="mk"></span> 
+ <em>点击查看全图</em> 
+ </a> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17113.html"><i class="ico-msg"></i>0</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17113" href="#"><i class="ico-good"></i><span>0</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="机智"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-1677272538.html"><img data-src="http://a.img4399.com/1677272538/middle" alt="Sthank_Tr" />Sthank_Tr</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17144.html">小明上课睡觉，老师叫醒他，让他解释黑板上的“扑朔迷离”。小明迷迷糊糊的站起来说:太远了，看不清楚。老师说:嗯，基本正确，坐下。</a></div> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17144.html"><i class="ico-msg"></i>0</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17144" href="#"><i class="ico-good"></i><span>0</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="小明上课睡觉，老师叫"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-1638157864.html"><img data-src="http://a.img4399.com/1638157864/middle" alt="你是猪吗？？！" />你是猪吗？？！</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17114.html">回家，去亲戚家，看见表弟玩LOL输了。&nbsp;&nbsp;<br />
+我嘲讽他：“小学生，你不行啊！。”&nbsp;&nbsp;<br />
+表弟：“嗯，钻石晋级赛好难。第四次失败了。”&nbsp;&nbsp;<br />
+卧槽！太尴尬了！（我才青铜）我要先发制人：&nbsp;&nbsp;“学习成绩还好吧？”&nbsp;&nbsp;<br />
+“我考得还行，也就580吧!没有我女朋友考得好。”</a></div> 
+  
+ <a class="jokeimg jokeimgbig" href="http://joke.4399pk.com/dryhumor/17114.html"> 
+ <img class="bdr" data-src="http://f9.img4399.com/whd/water_5a1e09ab1aabb.jpg#width_396-height_250" alt="牛B表弟" /> 
+ <span class="mk"></span> 
+ <em>点击查看全图</em> 
+ </a> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17114.html"><i class="ico-msg"></i>0</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17114" href="#"><i class="ico-good"></i><span>0</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="牛B表弟"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-429743427.html"><img data-src="http://a.img4399.com/429743427/middle" alt="请，叫我男神经" />请，叫我男神经</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17115.html">晚上去餐厅，邻桌一对情侣就座后，男的喊服务生：“美女，菜单拿一下。”<br />
+他女友闻言揶揄：“你喊美女喊得很熟练嘛！？”<br />
+男的：“那当然了。”<br />
+不久菜单拿来了，男的指着女友说：“请把菜单给这位超级美女看。。。。”</a></div> 
+  
+ <a class="jokeimg jokeimgbig" href="http://joke.4399pk.com/dryhumor/17115.html"> 
+ <img class="bdr" data-src="http://f9.img4399.com/whd/water_5a1e0982c47e1.jpg#width_396-height_250" alt="脱口而出" /> 
+ <span class="mk"></span> 
+ <em>点击查看全图</em> 
+ </a> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17115.html"><i class="ico-msg"></i>0</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17115" href="#"><i class="ico-good"></i><span>0</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="脱口而出"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-2067534656.html"><img data-src="http://a.img4399.com/2067534656/middle" alt="有人说泽田" />有人说泽田</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17090.html">太可怕了太可怕了！全国科学家和数十万研究人员表明不管你是用壶，杯子，不管你用什么来烧水都不要直接喝，如果你直接喝了的话就会因此触发神经组织最后水洒在手上，简单来说就是烫。</a></div> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17090.html"><i class="ico-msg"></i>2</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17090" href="#"><i class="ico-good"></i><span>16</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="太可怕了太可怕了！全"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ <div class="goodmsg"> 
+  
+ <p><a href="/user-id-817352851.html">Cc.素素：</a>烧开的热水不能直接喝，因为烫嘴 
+ </p> 
+  
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-989197240.html"><img data-src="http://a.img4399.com/989197240/middle" alt="爆笑哥" />爆笑哥</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17068.html">昨晚做梦，梦到自己交了个女朋友，感情发展迅速，经常亲嘴热吻！<br />
+早上醒来，迷迷糊糊中还在回味梦里亲嘴的感觉！<br />
+突然嘴唇一热，习惯性的张嘴迎合，两舌相交湿润了彼此的嘴唇！<br />
+正当我想张开手臂有下一步动作的时候，突然一惊！<br />
+猛的睁开双眼，对上了我们家二哈那双充满期待的眼神，舌头还在舔着我的嘴唇！我……</a></div> 
+  
+ <a class="jokeimg jokeimgbig" href="http://joke.4399pk.com/dryhumor/17068.html"> 
+ <img class="bdr" data-src="http://f9.img4399.com/whd/water_5a1cb76f7e3c5.jpg#width_396-height_250" alt="做梦" /> 
+ <span class="mk"></span> 
+ <em>点击查看全图</em> 
+ </a> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17068.html"><i class="ico-msg"></i>2</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17068" href="#"><i class="ico-good"></i><span>46</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="做梦"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ <div class="goodmsg"> 
+  
+ <p><a href="/user-id-0.html">4399黑龙江网友：</a>有一种梦，叫白日梦 
+ </p> 
+  
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-2019178543.html"><img data-src="http://a.img4399.com/2019178543/middle" alt="４３９９肖斗笔" />４３９９肖斗笔</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17088.html">逗比牌神转折系列<br />
+给大家讲个鬼故事，在七月十五（鬼节）半夜十二点悄悄拿起电话拨打五个零，稍等一下，你就会听见一个女人幽幽地说···<br />
+“您拨打的号码是空号，请查证后再拨”</a></div> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17088.html"><i class="ico-msg"></i>3</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17088" href="#"><i class="ico-good"></i><span>29</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="逗比牌神转折系列
+给"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ <div class="goodmsg"> 
+  
+ <p><a href="/user-id-817352851.html">Cc.素素：</a>这个，你有试过吗？不然你这么知道？ 
+ </p> 
+  
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-1638157864.html"><img data-src="http://a.img4399.com/1638157864/middle" alt="你是猪吗？？！" />你是猪吗？？！</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17071.html">胖妹：最近，我参加了一个女神养成课程。<br />
+女神：结果怎样？<br />
+胖妹：老师说我超额完成了课程！<br />
+女神：那是怎样？<br />
+胖妹：正常达标就是女神，超额就是女神经病！<br />
+女神：......</a></div> 
+  
+ <a class="jokeimg jokeimgbig" href="http://joke.4399pk.com/dryhumor/17071.html"> 
+ <img class="bdr" data-src="http://f9.img4399.com/whd/water_5a1cb62558da4.jpg#width_396-height_250" alt="养成课" /> 
+ <span class="mk"></span> 
+ <em>点击查看全图</em> 
+ </a> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17071.html"><i class="ico-msg"></i>1</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17071" href="#"><i class="ico-good"></i><span>20</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="养成课"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ <div class="goodmsg"> 
+  
+ <p><a href="/user-id-817352851.html">Cc.素素：</a>有毅力的女神，不错不错 
+ </p> 
+  
+ </div> 
+  
+ </li> 
+  
+ <li> 
+ <div class="jokeuser" > 
+ <a href="/user-id-429066438.html"><img data-src="http://a.img4399.com/429066438/middle" alt="搞笑吐槽君" />搞笑吐槽君</a> 
+ </div> 
+ <div class="jokecon"> 
+ <div class="joketxt"><a href="http://joke.4399pk.com/dryhumor/17069.html">刚搬到这个小区，二楼住着一对母女，那女孩简直就是我心中女神的定制版。<br />
+不是听人说要想脱单，先搞定丈母娘么？<br />
+于是我每天去给未来丈母娘送温柔，献殷勤<br />
+终于有一天，未来丈母娘说话了：我懂你的意思，其实我也挺喜欢你的，就是我这大了你十几岁，你家里能同意么？</a></div> 
+  
+ <a class="jokeimg jokeimgbig" href="http://joke.4399pk.com/dryhumor/17069.html"> 
+ <img class="bdr" data-src="http://f9.img4399.com/whd/water_5a1cb6fe3e013.jpg#width_396-height_250" alt="脱单" /> 
+ <span class="mk"></span> 
+ <em>点击查看全图</em> 
+ </a> 
+  
+ <div class="jokeinfo"> 
+ <div class="joketools"> 
+ <a class="comnum" href="http://joke.4399pk.com/dryhumor/17069.html"><i class="ico-msg"></i>1</a> 
+ <a class="votelk dryhumorgoodbtn" hid="17069" href="#"><i class="ico-good"></i><span>20</span></a> 
+ </div> 
+ <div class="jokeshare"> 
+ <div class="bdsharebuttonbox" data-text="脱单"> 
+ <span>分享:</span> 
+ <a href="#" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a> 
+ <a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a> 
+ <a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a> 
+ <a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+  
+ <div class="goodmsg"> 
+  
+ <p><a href="/user-id-824975825.html">莫拉蒂要走：</a>孩子，你没有说清楚，你到底要那个 
+ </p> 
+  
+ </div> 
+  
+ </li> 
+  
+ </ul> 
+ <a class="morejoke" href="/dryhumor">更多搞笑段子</a> 
+ </div> 
+ <div class="area4r fr"> 
+ <div class="fixit"> 
+ <div class="tithd"> 
+ <em class="tit7"><a href="http://biaoqing.4399biule.com/">搞笑表情包</a></em> 
+ <a class="morelk" href="http://biaoqing.4399biule.com/">更多</a> 
+ </div> 
+ 
+ <div class="facewp" > 
+ <ul class="cf"> 
+  
+ <li> 
+ <a href="http://biaoqing.4399biule.com/index/package/pid/2652"> 
+ <img src="http://f9.img4399.com/whd/5a0d6750e732d.jpg" alt="" /> 
+ <div class="mk"> 
+ <em></em> 
+ <p><span>进入下载</span>10图</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://biaoqing.4399biule.com/index/package/pid/2655"> 
+ <img src="http://f9.img4399.com/whd/5a0d67510bfbe.jpg" alt="" /> 
+ <div class="mk"> 
+ <em></em> 
+ <p><span>进入下载</span>14图</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://biaoqing.4399biule.com/index/package/pid/2654"> 
+ <img src="http://f9.img4399.com/whd/5a0d67512390d.jpg" alt="" /> 
+ <div class="mk"> 
+ <em></em> 
+ <p><span>进入下载</span>11图</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://biaoqing.4399biule.com/index/package/pid/2661"> 
+ <img src="http://f9.img4399.com/whd/5a0d67515dc52.jpg" alt="" /> 
+ <div class="mk"> 
+ <em></em> 
+ <p><span>进入下载</span>11图</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://biaoqing.4399biule.com/index/package/pid/2662"> 
+ <img src="http://f9.img4399.com/whd/5a0d675174b56.jpg" alt="" /> 
+ <div class="mk"> 
+ <em></em> 
+ <p><span>进入下载</span>9图</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ <li> 
+ <a href="http://biaoqing.4399biule.com/index/package/pid/2664"> 
+ <img src="http://f9.img4399.com/whd/5a0d67518da18.jpg" alt="" /> 
+ <div class="mk"> 
+ <em></em> 
+ <p><span>进入下载</span>10图</p> 
+ </div> 
+ </a> 
+ </li> 
+  
+ </ul> 
+ </div> 
+ 
+ 
+ <div class="hotface"> 
+ <div class="tithd"> 
+ <em class="tit8"><a href="http://biaoqing.4399biule.com/">热门表情包</a></em> 
+ </div> 
+ <div class="bd cf"> 
+ <ul class=""> 
+  
+ <li><span class="num1">1</span><a href="http://biaoqing.4399biule.com/index/package/pid/9">老司机开车</a></li> 
+  
+  
+ <li><span class="num2">2</span><a href="http://biaoqing.4399biule.com/index/package/pid/2646">一起来装逼</a></li> 
+  
+  
+ <li><span class="num3">3</span><a href="http://biaoqing.4399biule.com/index/package/pid/2647">宠物小精灵</a></li> 
+  
+  
+ <li><span class="num4">4</span><a href="http://biaoqing.4399biule.com/index/package/pid/2638">怼人表情包</a></li> 
+  
+  
+ <li><span>5</span><a href="http://biaoqing.4399biule.com/index/package/pid/302">逗比喵星人</a></li> 
+  
+ </ul> 
+ <ul class=""> 
+  
+  
+ <li><span>6</span><a href="http://biaoqing.4399biule.com/index/package/pid/5">神烦狗gif</a></li> 
+  
+  
+ <li><span>7</span><a href="http://biaoqing.4399biule.com/index/package/pid/23">你他妈真棒</a></li> 
+  
+  
+ <li><span>8</span><a href="http://biaoqing.4399biule.com/index/package/pid/138">来一波滑稽</a></li> 
+  
+  
+ <li><span>9</span><a href="http://biaoqing.4399biule.com/index/package/pid/1">蘑菇头斗地主</a></li> 
+  
+  
+ <li><span>10</span><a href="http://biaoqing.4399biule.com/index/package/pid/313">二哈表情包</a></li> 
+  
+  
+ </ul> 
+ </div> 
+ </div> 
+ </div> 
+ </div> 
+</div> 
+ 
+<div class="fixedend"></div> 
+<div class="area5"> 
+ <div class="tithd"> 
+ <em class="tit9"><a href="http://www.4399.com/flash/gamehw.htm">好玩小游戏</a></em> 
+ <a class="morelk" href="http://www.4399.com/flash/gamehw.htm">更多</a> 
+ </div> 
+ <ul class="gamelist cf"> 
+  
+ <li><a href="http://www.4399.com/flash/188528.htm"><img data-src="http://imga4.5054399.com/upload_pic/2017/9/30/4399_15033987346.jpg" alt="造梦西游5" />造梦西游5</a></li> 
+  
+ <li><a href="http://news.4399.com/hxjy/"><img data-src="http://imga5.5054399.com/upload_pic/2017/9/20/4399_15094597623.jpg" alt="火线精英" />火线精英</a></li> 
+  
+ <li><a href="http://news.4399.com/pikatang/"><img data-src="http://imga5.5054399.com/upload_pic/2017/9/7/4399_15261357435.jpg" alt="弹弹堂3" />弹弹堂3</a></li> 
+  
+ <li><a href="http://www.4399.com/flash/152420.htm"><img data-src="http://f9.img4399.com/whd/59d1917624119.jpg" alt="小小精灵" />小小精灵</a></li> 
+  
+ <li><a href="http://www.3387.com/game/49046.html"><img data-src="http://imga2.5054399.com/upload_pic/2016/8/26/4399_11133027769.jpg" alt="帮主你这是喜脉啊" />帮主你这是喜脉啊</a></li> 
+  
+ <li><a href="http://www.4399.com/flash/34974.htm"><img data-src="http://imga5.5054399.com/upload_pic/2016/2/25/4399_09240435178.jpg" alt="大便超人" />大便超人</a></li> 
+  
+ <li><a href="http://www.4399.com/flash/2872.htm"><img data-src="http://imga3.5054399.com/upload_pic/2016/2/24/4399_19074448155.jpg" alt="悄悄放屁" />悄悄放屁</a></li> 
+  
+ <li><a href="http://www.4399.com/flash/14950.htm"><img data-src="http://imga1.5054399.com/upload_pic/2016/2/19/4399_14390841781.jpg" alt="暴打火柴人" />暴打火柴人</a></li> 
+  
+ <li><a href="http://www.4399.com/flash/108641.htm"><img data-src="http://imga2.5054399.com/upload_pic/2016/2/26/4399_09562787324.jpg" alt="爆笑变形金刚大结局" />爆笑变形金刚大结局</a></li> 
+  
+ <li><a href="http://www.4399.com/flash/134354.htm"><img data-src="http://imga5.5054399.com/upload_pic/2016/4/13/4399_14333893631.jpg" alt="整蛊火柴人2" />整蛊火柴人2</a></li> 
+  
+ <li><a href="http://www.4399.com/flash/51548.htm"><img data-src="http://imga4.5054399.com/upload_pic/7272/10/51548.jpg" alt="巫婆造女孩中文版" />巫婆造女孩中文版</a></li> 
+  
+ </ul> 
+</div> 
+ 
+<div class="area5"> 
+ <div class="tithd"> 
+ <em class="tit9"><span>友情链接</span></em> 
+ </div> 
+ <div class="frilink cf"> 
+  
+ <a href="http://www.4399.com/">4399小游戏</a> 
+  
+ <a href="http://www.4399dmw.com/donghua/">动画片大全</a> 
+  
+ <a href="http://xiaohua.zol.com.cn/">ZOL笑话库</a> 
+  
+ <a href="http://xx.yzz.cn/">娱乐八卦</a> 
+  
+ <a href="http://a.4399.cn/">安卓游戏</a> 
+  
+ <a href="http://app.4399.cn/">4399游戏盒</a> 
+  
+ <a href="http://i.4399.cn/ipad/">ipad游戏</a> 
+  
+ <a href="http://www.youba.com/">游吧</a> 
+  
+ <a href="http://syt.4399.cn/">手机游戏模拟器</a> 
+  
+ <a href="http://vr.4399.com/">VR虚拟现实</a> 
+  
+ <a href="http://i.4399.cn/">苹果游戏</a> 
+  
+ <a href="http://www.4399.com/special/195.htm">女生小游戏</a> 
+  
+ <a href="http://www.4399.com/special/1.htm">双人小游戏</a> 
+  
+ <a href="http://biaoqing.4399biule.com/">搞笑表情包</a> 
+  
+ <a href="http://www.3839.com/">好游快爆</a> 
+  
+ <a href="http://joke.4399pk.com/">笑话大全</a> 
+  
+ <a href="https://app.3000.com/">闪艺APP</a> 
+  
+ </div> 
+</div> 
+ 
+ 
+ 
+<div class="fixwp"> 
+ <a class="wxeq" href="#" onclick="return false;"><i></i>公众号</a> 
+ <ul class="fixnav cf"> 
+ <li><a class="sp1" href="#" onclick="goto('.area2');return false;">推荐</a></li> 
+ <li><a class="sp2" href="#" onclick="goto('.area_video');return false;">视频</a></li> 
+ <li><a class="sp3" href="#" onclick="goto('.area_image');return false;">图集</a></li> 
+ <li><a class="sp4" href="#" onclick="goto('.area4');return false;">段子</a></li> 
+ </ul> 
+ <a class="fixgotop" href="#" onclick="goto('body');return false;"><i></i></a> 
+ <div class="fixeq"><img src="/ximages/fixeq.png" alt="" /><p>微信扫一扫<br>关注爆笑一刻公众号</p></div> 
+</div> 
+ 
+ 
+<div class="footer" id="bottomfooter"> 
+ 
+</div> 
+ 
+ 
+ 
+<!--图片惰性加载--> 
+ 
+<!--热力图跟踪--> 
+ 
+<!--通用js--> 
+ 
+<!--登陆相关--> 
+ 
+ 
+ 
+ 
+<div style="display: none;"> 
+  
+ <script type="text/javascript" src="http://joke.4399pk.com/js/public/stat/stat.js?20171110" ></script> 
+  
+</div> 
+ 
+<!--幻灯片--> 
+<script type="text/javascript" src="http://joke.4399pk.com/js/public/jquery.slider.js?20171110" ></script> 
+<!--弹窗--> 
+<script type="text/javascript" src="http://joke.4399pk.com/js/public/tools/dialog.js?20171110" ></script> 
+<!--首页js--> 
+<script type="text/javascript" src="http://joke.4399pk.com/xjs/indexnew.js?20171110" ></script> 
+ 
+<script></script> 
+ 
+ 
+</body><script type="text/javascript" src="http://joke.4399pk.com/js/public/footer.js?20171110" ></script> 
+</html>

@@ -1,0 +1,8 @@
+com\dhcc\zhyl\splider\entity\UrlInfo.class
+com\dhcc\zhyl\splider\entity\Response.class
+com\dhcc\zhyl\splider\service\impl\SpliderServiceImpl.class
+com\dhcc\zhyl\splider\controller\SpliderController.class
+com\dhcc\zhyl\splider\dao\SpliderDao.class
+com\dhcc\zhyl\splider\service\SpliderService.class
+com\dhcc\zhyl\splider\dao\impl\SpliderDaoImpl.class
+com\dhcc\zhyl\splider\controller\Splider.class

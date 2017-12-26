@@ -1,0 +1,44 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:dhcc="dhcc.com.cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:dubbo="http://code.alibabatech.com/schema/dubbo" xmlns:cxf="http://cxf.apache.org/core"
+	xmlns:jaxws="http://cxf.apache.org/jaxws" xmlns:httpj="http://cxf.apache.org/transports/http-jetty/configuration"
+	xmlns:aop="http://www.springframework.org/schema/aop"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+		      http://www.springframework.org/schema/beans/spring-beans.xsd
+		      http://www.springframework.org/schema/context
+		      http://www.springframework.org/schema/context/spring-context.xsd
+		      http://code.alibabatech.com/schema/dubbo
+		      http://code.alibabatech.com/schema/dubbo/dubbo.xsd
+            http://cxf.apache.org/core
+            http://cxf.apache.org/schemas/core.xsd
+            http://cxf.apache.org/jaxws
+            http://cxf.apache.org/schemas/jaxws.xsd
+            http://cxf.apache.org/transports/http-jetty/configuration
+            http://cxf.apache.org/schemas/configuration/http-jetty.xsd
+            http://www.springframework.org/schema/aop
+            http://www.springframework.org/schema/aop/spring-aop.xsd"
+
+	default-autowire="byName" default-lazy-init="false">
+
+	<!-- 对下面的annotation-config进行如下解释:
+			作用:开启四大注解
+			AutowiredAnnotationBeanPostProcessor	(包括@Autowired)
+			CommonAnnotationBeanPostProcessor	(包括@Resource 、@PostConstruct、@PreDestroy等)
+			PersistenceAnnotationBeanPostProcessor
+			RequiredAnnotationBeanPostProcessor
+		以上四个Bean是spring非常常用的配置Bean,因为常用而且配置麻烦所以用了这样的简写
+		还有一个很重要的点是这个简写和下面的component-scan作用相同,所以如果有了component-scan就不用再写这个了
+	 -->
+	<!-- <context:annotation-config />启动某些注解  -->
+	<context:property-placeholder location="classpath:config.properties" /><!-- 加载配置文件 -->
+	<context:component-scan base-package="com.dhcc.zhyl.splider" /><!-- 扫描目录中的所有的@Component注解 由Spring管理 -->
+	<!-- @Component包括@Controller,@Service,@Repository,这个component-scan好像有个只扫描controller就能扫描所有的方法 -->
+	
+	<dubbo:application name="provider" /><!-- 提供方应用信息，用于计算依赖关系 -->
+	<dubbo:registry address="zookeeper://127.0.0.1:2181" /><!-- 使用zookeeper注册中心暴露服务地址 -->
+	<dubbo:protocol name="dubbo" port="20881" /><!-- 用dubbo协议在20880端口暴露服务 -->
+
+	<import resource="classpath:spring-dubbo-provider.xml" />
+
+</beans>
