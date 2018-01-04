@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--支持移动端触屏缩放-->
+    <!--如果在content中再加入maximum-scale=1, user-scalable=no则可以禁用缩放-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>山东农业大学校园论坛</title>
+
+    <!-- 登录用css -->
+    <link href="../css/signin.css" tppabs="http://v3.bootcss.com/examples/signin/signin.css" rel="stylesheet">
+    <!-- 压缩后的Bootstrap -->
+    <link href="../Bootstrap3.2.0/cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- 我自己的css -->
+    <link href="../css/common.css" rel="stylesheet">
+</head>
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <!--.container 类用于固定宽度并支持响应式布局的容器。-->
+    <!--.container-fluid 类用于 100% 宽度，占据全部视口（viewport）的容器。-->
+    <div class="container">
+        <!--导航栏标题-->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">农大校园论坛</a>
+        </div>
+        <!--导航栏-->
+        <div class="navbar-collapse collapse">
+            <form class="navbar-form navbar-right" role="form">
+                <div class="form-group">
+                    <input type="text" placeholder="登录名" class="form-control" id="username">
+                </div>
+                <div class="form-group">
+                    <input type="password" placeholder="密码" class="form-control" id="password">
+                </div>
+                <button type="button" class="btn btn-success">登录</button>
+                <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#empty" id="register">注册</button>
+            </form>
+        </div>
+    </div>
+</div>
+<div class="jumbotron">
+    <div class="container">
+        <h1>欢迎</h1>
+        <p>有心事没人诉说?有问题没人请教?有快乐没人分享? 我们来帮你解决!</p>
+        <p class="lead">没错,这里是农大论坛</p>
+        <p><a class="btn btn-primary btn-lg" role="button" data-toggle="modal" data-target="#LearnMore">了解更多 »</a></p>
+
+        <!--空白弹出框-->
+        <div class="modal fade" id="empty" tabindex="-1" data-backdrop="static">
+            <!--弹出框的容器-->
+            <div class="modal-dialog">
+                <!--弹出框-->
+                <div class="modal-content">
+                    <!--弹出框标题部分-->
+                    <div class="modal-header">
+                    </div>
+                    <!--主体-->
+                    <div class="modal-body">
+                        <form class="form-signin" role="form">
+                            <h2 class="form-signin-heading">邮箱注册</h2>
+                            <input type="email" id="setemail" class="form-control" placeholder="*常用邮箱" required autofocus>
+                            <input type="password" id="setpassword" class="form-control" placeholder="*设置密码" style="margin-bottom:0px" required>
+                            <input type="password" id="repeatpassword" class="form-control" placeholder="*重复密码" required>
+                            <button class="btn btn-lg btn-primary btn-block" id="submit" type="button" data-dismiss="modal" data-toggle="modal" data-target="#SendEmail">注册</button>
+                        </form>
+                    </div>
+                    <!--弹出框底部-->
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--&lt;!&ndash;点击"注册"的弹出框&ndash;&gt;-->
+        <!--<div class="modal fade" id="Register" tabindex="-1" data-backdrop="static">-->
+            <!--&lt;!&ndash;弹出框的容器&ndash;&gt;-->
+            <!--<div class="modal-dialog">-->
+                <!--&lt;!&ndash;弹出框&ndash;&gt;-->
+                <!--<div class="modal-content">-->
+                    <!--&lt;!&ndash;弹出框标题部分&ndash;&gt;-->
+                    <!--<div class="modal-header">-->
+                        <!--&lt;!&ndash;弹出框右上角关闭图标&ndash;&gt;-->
+                        <!--<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>-->
+                        <!--&lt;!&ndash;标题&ndash;&gt;-->
+                        <!--<h4 class="modal-title" id="RegisterTitle">邮箱注册</h4>-->
+                    <!--</div>-->
+                    <!--&lt;!&ndash;主体&ndash;&gt;-->
+                    <!--<div class="modal-body">-->
+                        <!--<form class="navbar-form" role="form">-->
+                            <!--<div class="form-group">-->
+                                <!--<input type="text" id="setemail" placeholder="*填写常用邮箱" class="form-control">-->
+                            <!--</div>-->
+                            <!--<div class="form-group">-->
+                                <!--<input type="password" id="setpassword" placeholder="*设置密码" class="form-control">-->
+                            <!--</div>-->
+                        <!--</form>-->
+                    <!--</div>-->
+                    <!--&lt;!&ndash;弹出框底部&ndash;&gt;-->
+                    <!--<div class="modal-footer">-->
+                        <!--<button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>-->
+                        <!--<button type="button" class="btn btn-primary" id="submit" data-dismiss="modal" data-toggle="modal" data-target="#SendEmail">提交</button>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+
+        <!--点击"注册.提交"的弹出框-->
+        <div class="modal fade" id="SendEmail" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static">
+            <!--弹出框的容器-->
+            <div class="modal-dialog">
+                <!--弹出框-->
+                <div class="modal-content">
+                    <!--弹出框标题部分-->
+                    <div class="modal-header">
+                        <!--弹出框右上角关闭图标-->
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <!--标题-->
+                        <h4 class="modal-title" id="Send">发送成功</h4>
+                    </div>
+                    <!--主体-->
+                    <div class="modal-body">
+                        我们已经向您的邮箱发送了一封激活邮件,请尽快前往验证
+                    </div>
+                    <!--弹出框底部-->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">知道了</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--点击"了解更多"的弹出框-->
+        <div class="modal fade" id="LearnMore" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-backdrop="static">
+            <!--弹出框的容器-->
+            <div class="modal-dialog">
+                <!--弹出框-->
+                <div class="modal-content">
+                    <!--弹出框标题部分-->
+                    <div class="modal-header">
+                        <!--弹出框右上角关闭图标-->
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <!--标题-->
+                        <h4 class="modal-title" id="myModalLabel">别急~</h4>
+                    </div>
+                    <!--主体-->
+                    <div class="modal-body">
+                        客官先登记嘛~
+                    </div>
+                    <!--弹出框底部-->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">这就来</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<div class="container">
+    <!-- Example row of columns -->
+    <div class="row">
+        <div class="col-md-4">
+            <h2>情感区</h2>
+            <p><a href="blog.htm"><b>精</b>: 舍友打呼噜,大家说说买什么价位的刀合适! </a></p>
+            <p><b>精</b>: 国足赢球了!大家今晚嗨起来啊!! </p>
+            <p><b>精</b>: 啊~今晚的月色多么美,不要让我一个人醉~ </p>
+            <p><a class="btn btn-default" href="#" role="button">去看看 »</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>学习区</h2>
+            <p><b>精</b>: 高数要考试了,大家分享一下复(bu)习(kao)资(mi)料(ji) </p>
+            <p><b>精</b>: 学长发福利,计算机考试必过宝典,仅限学妹 </p>
+            <p><b>精</b>: 导论XX页倒数第二个课后题怎么做,在线等... </p>
+            <p><a class="btn btn-default" href="#" role="button">去看看 »</a></p>
+        </div>
+        <div class="col-md-4">
+            <h2>娱乐区</h2>
+            <p><b>精</b>: 东校篮球场六缺一,长得帅的速度来了 </p>
+            <p><b>精</b>: 周末大润发对面看电影,来个人陪我~~~~~ </p>
+            <p><b>精</b>: 农大第一届电子竞技大赛开始啦! </p>
+            <p><a class="btn btn-default" href="#" role="button">去看看 »</a></p>
+        </div>
+    </div>
+
+    <!--<hr>-->
+
+    <!--<footer>-->
+        <!--<p>© Company 2014</p>-->
+    <!--</footer>-->
+</div>
+
+<!--  jQuery主js引用  -->
+<script src="../jQuery/jquery-2.1.4.min.js"></script>
+<!--  Bootstrap自带的js  -->
+<script src="../Bootstrap3.2.0/cdn.bootcss.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<!--  Bootstrap必要的jQuery插件  -->
+<script src="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+<!--  事件处理  -->
+<script src="../js/userlogin.js"></script>
+<!--  全局ip  -->
+<script src="../js/globalip.js"></script>
+</body>
+</html>

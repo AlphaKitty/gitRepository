@@ -1,0 +1,324 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>cn.edu.sdau</groupId>
+	<artifactId>forum</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+
+	<name>forum</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<springversion>3.1.1.RELEASE</springversion>
+	</properties>
+
+
+	<dependencies>
+	
+	<!-- junit是用来进行单元测试的 -->
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+
+<!-- aop切面,如如声明型事务管理 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aop</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+		<!-- Hibernate在运行时使用这个代码生成库增强类，cglib.jar包依赖的包 -->
+		<dependency> 
+			<groupId>org.springframework</groupId>
+ 			<artifactId>spring-asm</artifactId> 
+			<version>${springversion}</version> 
+			<type>jar</type>
+			<scope>compile</scope> 
+		</dependency>
+				
+<!-- 提供对AspectJ的支持，以便可以方便的将面向方面的功能集成进IDE中 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-aspects</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!-- 访问配置文件、创建和管理bean -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-beans</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!-- 可以找到使用Spring ApplicationContext特性时所需的全部类.外部依赖spring-beans, (spring-aop) -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+		
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context-support</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!-- 包含Spring 框架基本的核心工具类。Spring 其它组件要都要使用到这个包里的类，是其它组件的基本核心 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-core</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+		
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-expression</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!-- 包含对Spring 对JDBC 数据访问进行封装的所有类 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jdbc</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!-- 提供了对JMS 1.0.2/1.1的支持类 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-jms</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!--  -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-orm</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!--  -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-oxm</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!--  -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-tx</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!-- 包含Web 应用开发时，用到Spring 框架时所需的核心类，包括自动载入Web Application Context 特性的类、Struts 与JSF 集成类、文件上传的支持类、Filter 类和大量工具辅助类 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-web</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!-- 包含Spring MVC 框架相关的所有类 -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		
+<!--  -->
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>${springversion}</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+
+<!--  -->
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+
+<!-- 包含了一些Apache开发的集合类，功能比java.util.*强大 -->
+		<dependency>
+			<groupId>commons-collections</groupId>
+			<artifactId>commons-collections</artifactId>
+			<version>3.1</version>
+		</dependency>
+
+<!-- 包含了日志功能，必须使用的jar包 -->
+		<dependency>
+			<groupId>commons-logging</groupId>
+			<artifactId>commons-logging</artifactId>
+			<version>1.1</version>
+		</dependency>
+
+		<!-- Java bean和数据库表的对应关系相关 -->
+		<dependency>
+			<groupId>javax.persistence</groupId>
+			<artifactId>persistence-api</artifactId>
+			<version>1.0</version>
+		</dependency>
+
+		<!-- 以下为hibernate持久层支持 -->
+		<dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>4.2.6.Final</version>
+		</dependency>
+
+		<!-- 以下为mysql数据库 -->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.18</version>
+		</dependency>
+
+		<!-- 以下为druid连接池 -->
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>druid</artifactId>
+			<version>1.0.27</version>
+		</dependency>
+		
+		<!-- 以下为Json相关 -->
+		<dependency>  
+			<groupId>net.sf.json-lib</groupId>  
+			<artifactId>json-lib</artifactId>  
+			<version>2.4</version>  
+			<classifier>jdk15</classifier><!--指定jdk版本-->  
+		</dependency>
+		
+		<!-- jackson.jar是json官网的java工具包用来转换java对象与json字符串 -->
+		<dependency>  
+            <groupId>com.fasterxml.jackson.core</groupId>  
+            <artifactId>jackson-databind</artifactId>  
+            <version>2.5.3</version>  
+        </dependency> 
+        
+        
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-core</artifactId>
+    <version>2.8.4</version>
+</dependency>
+
+
+<dependency>
+    <groupId>org.codehaus.jackson</groupId>
+    <artifactId>jackson-core-asl</artifactId>
+    <version>1.9.13</version>
+</dependency>
+
+<dependency>
+    <groupId>org.codehaus.jackson</groupId>
+    <artifactId>jackson-mapper-asl</artifactId>
+    <version>1.9.2</version>
+</dependency>
+
+<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-annotations</artifactId>
+    <version>2.7.3</version>
+</dependency>
+
+<dependency>
+    <groupId>antlr</groupId>
+    <artifactId>antlr</artifactId>
+    <version>2.7.7</version>
+</dependency>
+
+<dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-core</artifactId>
+    <version>4.2.6.Final</version>
+</dependency>
+
+<!-- c3p0连接池 -->
+<dependency>
+    <groupId>c3p0</groupId>
+    <artifactId>c3p0</artifactId>
+    <version>0.9.1.2</version>
+</dependency>
+
+<!-- 配合c3p0 -->
+<dependency>
+    <groupId>com.mchange</groupId>
+    <artifactId>mchange-commons-java</artifactId>
+    <version>0.2.10</version>
+</dependency>
+
+        
+        <!-- 面向切面 -->
+        <dependency>  
+       		<groupId> org.aspectj</groupId >  
+       		<artifactId> aspectjweaver</artifactId >  
+       		<version> 1.6.11</version >  
+		</dependency>
+
+<dependency>
+    <groupId>aopalliance</groupId>
+    <artifactId>aopalliance</artifactId>
+    <version>1.0</version>
+</dependency>
+
+<dependency>
+    <groupId>javax.mail</groupId>
+    <artifactId>mail</artifactId>
+    <version>1.4</version>
+</dependency>
+
+<dependency>
+    <groupId>javax.mail</groupId>
+    <artifactId>mail</artifactId>
+    <version>1.4</version>
+</dependency>
+
+<dependency>
+    <groupId>javax.mail</groupId>
+    <artifactId>javax.mail-api</artifactId>
+    <version>1.5.2</version>
+</dependency>
+
+	</dependencies>
+</project>

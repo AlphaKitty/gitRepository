@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Bootstrap - 简洁、直观、强悍、移动设备优先的前端开发框架，让web开发更迅速、简单。">
+<meta name="keywords" content="HTML, CSS, JS, JavaScript, framework, bootstrap, front-end, frontend, web development">
+<meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+<meta name="author" content="王赛 <wangsai@bootcss.com>">
+
+<title>
+  
+    Wall of browser bugs &middot; Bootstrap 中文文档
+  
+</title>
+
+<!-- Bootstrap core CSS -->
+<link href="../../cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap.min.css" tppabs="http://cdn.bootcss.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+
+<link href="../assets/css/patch.css" tppabs="http://v3.bootcss.com/assets/css/patch.css" rel="stylesheet">
+
+<!-- Documentation extras -->
+<link href="../assets/css/docs.min.css" tppabs="http://v3.bootcss.com/assets/css/docs.min.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="../assets/js/ie8-responsive-file-warning.js" tppabs="http://v3.bootcss.com/assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="../assets/js/ie10-viewport-bug-workaround.js" tppabs="http://v3.bootcss.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+<script src="../assets/js/ie-emulation-modes-warning.js" tppabs="http://v3.bootcss.com/assets/js/ie-emulation-modes-warning.js"></script>
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="../../cdn.bootcss.com/html5shiv/3.7.0/html5shiv.js" tppabs="http://cdn.bootcss.com/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="../../cdn.bootcss.com/respond.js/1.4.2/respond.min.js" tppabs="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- Favicons -->
+<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
+<link rel="icon" href="/favicon.ico">
+
+  </head>
+  <body>
+    <a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <!-- Docs master nav -->
+    <header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="../index.htm" tppabs="http://v3.bootcss.com/" class="navbar-brand">Bootstrap</a>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav">
+        <li>
+          <a href="../getting-started/index.htm" tppabs="http://v3.bootcss.com/getting-started">起步</a>
+        </li>
+        <li>
+          <a href="../css/index.htm" tppabs="http://v3.bootcss.com/css">全局 CSS 样式</a>
+        </li>
+        <li>
+          <a href="../components/index.htm" tppabs="http://v3.bootcss.com/components">组件</a>
+        </li>
+        <li>
+          <a href="../javascript/index.htm" tppabs="http://v3.bootcss.com/javascript">JavaScript 插件</a>
+        </li>
+        <li>
+          <a href="../customize/index.htm" tppabs="http://v3.bootcss.com/customize">定制</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="javascript:if(confirm(%27http://expo.bootcss.com/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://expo.bootcss.com/%27" tppabs="http://expo.bootcss.com/" >优站精选</a></li>
+        <li><a href="javascript:if(confirm(%27http://blog.getbootstrap.com/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://blog.getbootstrap.com/%27" tppabs="http://blog.getbootstrap.com/" >官方博客</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+    <!-- Docs page layout -->
+    <div class="bs-docs-header" id="content">
+      <div class="container">
+        <h1>Wall of browser bugs</h1>
+        <p>A list of the browser bugs that Bootstrap is currently grappling with.</p>
+        
+      </div>
+    </div>
+
+    <div class="container bs-docs-container">
+
+      <div class="row">
+        <div class="col-md-9" role="main">
+          <div class="bs-docs-section">
+  <h1 id="browser-bugs" class="page-header">Browser bugs</h1>
+
+  <p class="lead">Bootstrap currently works around several outstanding browser bugs in major browsers to deliver the best cross-browser experience possible. Some bugs, like those listed below, cannot be solved by us.</p>
+  <p>We publicly list browser bugs that are impacting us here, in the hopes of expediting the process of fixing them. For information on Bootstrap's browser compatibility, <a href="../getting-started/index.htm#support" tppabs="http://v3.bootcss.com/getting-started/#support">see our browser compatibility docs</a>.</p>
+
+  <div class="table-responsive">
+    <table class="table table-bordered table-hover">
+      <thead>
+        <tr>
+          <th>Browser(s)</th>
+          <th>Summary of bug</th>
+          <th>Upstream bug(s)</th>
+          <th>Bootstrap issue(s)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Firefox</td>
+          <td><code>.table-bordered</code> with an empty <code>&lt;tbody&gt;</code> is missing borders</td>
+          <td><a href="javascript:if(confirm(%27https://bugzilla.mozilla.org/show_bug.cgi?id=1023761  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://bugzilla.mozilla.org/show_bug.cgi?id=1023761%27" tppabs="https://bugzilla.mozilla.org/show_bug.cgi?id=1023761">Mozilla bug #1023761</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/13453  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/13453%27" tppabs="https://github.com/twbs/bootstrap/issues/13453">#13453</a></td>
+        </tr>
+        <tr>
+          <td>Firefox</td>
+          <td>Unusual default form control styles on Android</td>
+          <td><a href="javascript:if(confirm(%27https://bugzilla.mozilla.org/show_bug.cgi?id=900871  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://bugzilla.mozilla.org/show_bug.cgi?id=900871%27" tppabs="https://bugzilla.mozilla.org/show_bug.cgi?id=900871">Closed Mozilla bug #900871</a>, <a href="javascript:if(confirm(%27https://bugzilla.mozilla.org/show_bug.cgi?id=763671  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://bugzilla.mozilla.org/show_bug.cgi?id=763671%27" tppabs="https://bugzilla.mozilla.org/show_bug.cgi?id=763671">Open Mozilla bug #763671</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/8702  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/8702%27" tppabs="https://github.com/twbs/bootstrap/issues/8702">#8702</a></td>
+        </tr>
+        <tr>
+          <td>Firefox</td>
+          <td><code>max-width: 100%;</code> doesn't work inside tables</td>
+          <td><a href="javascript:if(confirm(%27https://bugzilla.mozilla.org/show_bug.cgi?id=975632  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://bugzilla.mozilla.org/show_bug.cgi?id=975632%27" tppabs="https://bugzilla.mozilla.org/show_bug.cgi?id=975632">Mozilla bug #975632</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/10690  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/10690%27" tppabs="https://github.com/twbs/bootstrap/issues/10690">#10690</a></td>
+        </tr>
+        <tr>
+          <td>Firefox <strong>&lt;31</strong></td>
+          <td><code>position: relative;</code> doesn't work inside tables</td>
+          <td><a href="javascript:if(confirm(%27https://bugzilla.mozilla.org/show_bug.cgi?id=63895  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://bugzilla.mozilla.org/show_bug.cgi?id=63895%27" tppabs="https://bugzilla.mozilla.org/show_bug.cgi?id=63895">Mozilla bug #63895</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/12467  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/12467%27" tppabs="https://github.com/twbs/bootstrap/issues/12467">#12467</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td>Weird button behavior with some number <code>&lt;input&gt;</code>s</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=337668  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=337668%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=337668">Chromium issue #337668</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/8350  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/8350%27" tppabs="https://github.com/twbs/bootstrap/issues/8350">#8350</a>, <a href="javascript:if(confirm(%27https://github.com/necolas/normalize.css/issues/283  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/necolas/normalize.css/issues/283%27" tppabs="https://github.com/necolas/normalize.css/issues/283">Normalize #283</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td>Navbar rendering problem on Windows after several clicks</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=272750  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=272750%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=272750">Chromium issue #272750</a>, <a href="javascript:if(confirm(%27https://bugs.webkit.org/show_bug.cgi?id=119793  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://bugs.webkit.org/show_bug.cgi?id=119793%27" tppabs="https://bugs.webkit.org/show_bug.cgi?id=119793">WebKit bug #119793</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/9226  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/9226%27" tppabs="https://github.com/twbs/bootstrap/issues/9226">#9226</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td><code>display: table;</code> within <code>display: block;</code> forces sibling content to new line</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=309483  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=309483%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=309483">Chromium issue #309483</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/9950  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/9950%27" tppabs="https://github.com/twbs/bootstrap/issues/9950">#9950</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td>Unwanted vertical lines when printing styled <code>&lt;select&gt;</code> on OS X</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=282918  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=282918%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=282918">Chromium issue #282918</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/11245  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/11245%27" tppabs="https://github.com/twbs/bootstrap/issues/11245">#11245</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td>inline-block element collapses white-space on Windows</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=329574  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=329574%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=329574">Chromium issue #329574</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/11885  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/11885%27" tppabs="https://github.com/twbs/bootstrap/issues/11885">#11885</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td>Incorrect viewport size used for media queries when printing</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=273306  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=273306%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=273306">Chromium issue #273306</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/12078  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/12078%27" tppabs="https://github.com/twbs/bootstrap/issues/12078">#12078</a></td>
+        </tr>
+        <tr>
+          <td>Chrome &amp; Safari</td>
+          <td>OS X scrollbar clipped in <code>select[multiple]</code> with padding</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=342208  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=342208%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=342208">Chromium issue #342208</a>, <a href="javascript:if(confirm(%27https://bugs.webkit.org/show_bug.cgi?id=128489  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://bugs.webkit.org/show_bug.cgi?id=128489%27" tppabs="https://bugs.webkit.org/show_bug.cgi?id=128489">WebKit bug #128489</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/12536  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/12536%27" tppabs="https://github.com/twbs/bootstrap/issues/12536">#12536</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td><code>display: table-cell; width: 100%;</code> doesn't work correctly on date <code>&lt;input&gt;</code></td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=346051  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=346051%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=346051">Chromium issue #346051</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/12548  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/12548%27" tppabs="https://github.com/twbs/bootstrap/issues/12548">#12548</a></td>
+        </tr>
+        <tr>
+          <td>Chrome</td>
+          <td><code>&lt;input type="password"&gt;</code> sporadically causes bad widths on floated elements</td>
+          <td><a href="javascript:if(confirm(%27https://code.google.com/p/chromium/issues/detail?id=377346  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://code.google.com/p/chromium/issues/detail?id=377346%27" tppabs="https://code.google.com/p/chromium/issues/detail?id=377346">Chrome issue #377346</a></td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/13892  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/13892%27" tppabs="https://github.com/twbs/bootstrap/issues/13892">#13892</a></td>
+        </tr>
+        <tr>
+          <td>Safari</td>
+          <td>Insufficient CSS percentage precision</td>
+          <td>(No public bug tracker)</td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/9282  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/9282%27" tppabs="https://github.com/twbs/bootstrap/issues/9282">#9282</a></td>
+        </tr>
+        <tr>
+          <td>Safari</td>
+          <td>Justified nav rendering bug</td>
+          <td>(No public bug tracker)</td>
+          <td><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues/9774  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues/9774%27" tppabs="https://github.com/twbs/bootstrap/issues/9774">#9774</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+        </div>
+        <div class="col-md-3">
+          <div class="bs-docs-sidebar hidden-print hidden-xs hidden-sm" role="complementary">
+            <ul class="nav bs-docs-sidenav">
+              
+            </ul>
+            <a class="back-to-top" href="#top">
+              返回顶部
+            </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Footer
+================================================== -->
+<footer class="bs-docs-footer" role="contentinfo">
+  <div class="container">
+    
+
+    <p>Designed and built with all the love in the world by <a href="javascript:if(confirm(%27http://twitter.com/mdo  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://twitter.com/mdo%27" tppabs="http://twitter.com/mdo" target="_blank">@mdo</a> and <a href="javascript:if(confirm(%27http://twitter.com/fat  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://twitter.com/fat%27" tppabs="http://twitter.com/fat" target="_blank">@fat</a>.</p>
+    <p>Maintained by the <a href="javascript:if(confirm(%27https://github.com/twbs?tab=members  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs?tab=members%27" tppabs="https://github.com/twbs?tab=members">core team</a> with the help of <a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/graphs/contributors  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/graphs/contributors%27" tppabs="https://github.com/twbs/bootstrap/graphs/contributors">our contributors</a>.</p>
+    <p>本项目源码受 <a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/blob/master/LICENSE  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/blob/master/LICENSE%27" tppabs="https://github.com/twbs/bootstrap/blob/master/LICENSE" target="_blank">MIT</a> 开源协议保护，文档受 <a href="javascript:if(confirm(%27http://creativecommons.org/licenses/by/3.0/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://creativecommons.org/licenses/by/3.0/%27" tppabs="http://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a> 开源协议保护。</p>
+    <ul class="bs-docs-footer-links muted">
+      <li>当前版本： v3.2.0</li>
+      <li>&middot;</li>
+      <li><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap%27" tppabs="https://github.com/twbs/bootstrap">GitHub 仓库</a></li>
+      <li>&middot;</li>
+      <li><a href="../getting-started/index.htm#examples" tppabs="http://v3.bootcss.com/getting-started/#examples">实例精选</a></li>
+      <li>&middot;</li>
+      <li><a href="javascript:if(confirm(%27http://v2.bootcss.com/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://v2.bootcss.com/%27" tppabs="http://v2.bootcss.com/">v2.3.2 中文文档</a></li>
+      <li>&middot;</li>
+      <li><a href="../about/index.htm" tppabs="http://v3.bootcss.com/about/">关于</a></li>
+      <li>&middot;</li>
+      <li><a href="javascript:if(confirm(%27http://expo.bootcss.com/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://expo.bootcss.com/%27" tppabs="http://expo.bootcss.com/">优站精选</a></li>
+      <li>&middot;</li>
+      <li><a href="javascript:if(confirm(%27http://blog.getbootstrap.com/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://blog.getbootstrap.com/%27" tppabs="http://blog.getbootstrap.com/">官方博客</a></li>
+      <li>&middot;</li>
+      <li><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/issues?state=open  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/issues?state=open%27" tppabs="https://github.com/twbs/bootstrap/issues?state=open">Issues</a></li>
+      <li>&middot;</li>
+      <li><a href="javascript:if(confirm(%27https://github.com/twbs/bootstrap/releases  \n\nThis file was not retrieved by Teleport Pro, because it is addressed using an unsupported protocol (e.g., gopher).  \n\nDo you want to open it from the server?%27))window.location=%27https://github.com/twbs/bootstrap/releases%27" tppabs="https://github.com/twbs/bootstrap/releases">历史版本</a></li>
+    </ul>
+  </div>
+</footer>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../../cdn.bootcss.com/jquery/1.11.1/jquery.min.js" tppabs="http://cdn.bootcss.com/jquery/1.11.1/jquery.min.js"></script>
+<script src="../../cdn.bootcss.com/bootstrap/3.2.0/js/bootstrap.min.js" tppabs="http://cdn.bootcss.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="../assets/js/docs.min.js" tppabs="http://v3.bootcss.com/assets/js/docs.min.js"></script>
+
+
+
+
+
+<!-- Analytics
+================================================== -->
+    <script type="text/javascript">
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F3d8e7fc0de8a2a75f2ca3bfe128e6391' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+  </body>
+</html>

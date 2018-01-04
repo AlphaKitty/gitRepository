@@ -1,0 +1,66 @@
+/*背景模糊*/
+.bg-blur {
+    float: left;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% auto;
+    /*-webkit-filter: blur(1px);*/
+    /*-moz-filter: blur(3px);*/
+    /*-o-filter: blur(3px);*/
+    /*-ms-filter: blur(3px);*/
+    /*filter: blur(3px);*/
+    /*opacity:0.9;*/
+}
+
+.bg {
+    background: url('../img/月是故乡明.gif');
+    width:100%;
+    height:70vw;
+}
+
+.content {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+/*.action{*/
+    /*-webkit-transition:rotateY 0.1s ease;*/
+    /*!*transform: rotateY(200deg);*!*/
+    /*!*transform:matrix3d(0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8);*!*/
+    /*!*-ms-transform:rotate(9deg); !* Internet Explorer *!*!*/
+    /*!*-moz-transform:rotate(9deg); !* Firefox *!*!*/
+    /*!*-webkit-transform:rotate(9deg); !* Safari 和 Chrome *!*!*/
+    /*!*-o-transform:rotate(9deg); !* Opera *!*!*/
+/*}*/
+
+/*.action {*/
+    /*width:100px;*/
+    /*height:100px;*/
+    /*background:blue;*/
+    /*transition:width 2s;*/
+    /*-moz-transition:width 2s; !* Firefox 4 *!*/
+    /*-webkit-transition:rotate 2s; !* Safari and Chrome *!*/
+    /*-o-transition:width 2s; !* Opera *!*/
+/*}*/
+
+/*.action:hover*/
+/*{*/
+    /*width:300px;*/
+/*}*/
+
+
+.action {
+    transition:All 0.4s ease-in-out;
+    -webkit-transition:All 2s ease-in-out;
+    -moz-transition:All 0.4s ease-in-out;
+    -o-transition:All 0.4s ease-in-out;
+}
+.action:hover
+ {
+     transform:rotate(360deg);
+     -webkit-transform:rotate(360deg);
+     -moz-transform:rotate(360deg);
+     -o-transform:rotate(360deg);
+     -ms-transform:rotate(360deg);
+ }

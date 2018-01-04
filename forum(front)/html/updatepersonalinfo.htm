@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>修改个人信息</title>
+    <link type="text/css" rel="stylesheet"
+          href="https://ss1.bdstatic.com/5KZ1bjqh_Q23odCf/static/princess/css/csssetting_90b91bec.css">
+
+    <!-- Bootstrap核心CSS -->
+    <link href="../../forum/Bootstrap3.2.0/v3.bootcss.com/dist/css/bootstrap.min.css"
+          tppabs="http://v3.bootcss.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- 此模板的自定义样式 -->
+    <link href="../css/updatepersonalinfo.css"
+          tppabs="http://v3.bootcss.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+
+
+    <!-- IE10 支持 -->
+    <script src="../../forum/Bootstrap3.2.0/v3.bootcss.com/assets/js/ie10-viewport-bug-workaround.js"
+            tppabs="http://v3.bootcss.com/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+</head>
+
+<body>
+
+<div class="container">
+    <div class="header">
+        <ul class="nav nav-pills pull-right" role="tablist">
+            <li class="active"><a href="#">基本信息</a></li>
+            <li><a href="#">详细信息</a></li>
+            <li><a href="#">设置</a></li>
+        </ul>
+        <h3 class="text-muted">头像放在这里</h3>
+    </div>
+
+    <div class="jumbotron">
+
+        <div class="setting-detail" id="stthld" style="display: block;">
+            <div class="detail-bg"></div>
+            <div class="plzhld clearfix">
+            </div>
+        </div>
+    </div>
+
+
+</div> <!-- /container -->
+
+<script src="../jQuery/jquery-2.1.4.min.js"></script>
+<script src="../js/updatepersonalinfo.js"></script>
+<script src="https://ss1.bdstatic.com/5KZ1bjqh_Q23odCf/static/princess/js/jssetting_f992972c.js"></script>
+<script src="https://ss1.bdstatic.com/5KZ1bjqh_Q23odCf/static/princess/js/setting_basic_f2b6cf89.js"></script>
+<script>
+    App.onPageletArrive({
+        "targetId": "stthld", "viewType": "SettingProfile",
+        "tplContent": "<div class=mod-setting-profile> " +
+        "<div class=\x22setting-profile-title yahei\x22>基本资料<\/div> " +
+        "<form id=profile class=setting-profile-form method=POST action=\x22https:\/\/passport.baidu.com\/v2\/?ucenterset\x22> " +
+        "<table class=setting-profile-table> " +
+        "<tbody> " +
+        "<tr> " +
+        "<th>性别:<\/th> " +
+        "<td class=line30> " +
+        "<input name=passport_sex id=passport-sex-1 type=radio value=1  checked > " +
+        "<label class=profile-gender for=passport-sex-1>男<\/label> " +
+        "<input name=passport_sex id=passport-sex-2 type=radio value=2 > " +
+        "<label for=passport-sex-2 class=profile-gender>女<\/label>   " +
+        "<tr> " +
+        "<th>生日:<\/th> " +
+        "<td> " +
+        "<select id=passport_birthday_year name=passport_birthday_year><option value=none>请选择<\/select>   " +
+        "<tr> " +
+        "<th>血型:<\/th> " +
+        "<td> " +
+        "<select id=passport_blood name=passport_blood><option value=none>请选择<\/select>   " +
+        "<tr> " +
+        "<th>出生地:<\/th> " +
+        "<td> " +
+        "<select id=passport_hometown_province name=passport_hometown_province><option value=none>请选择<\/select>   " +
+        "<tr> " +
+        "<th>居住地:<\/th> " +
+        "<td> " +
+        "<select id=passport_reside_province name=passport_hometown_province><option value=none>请选择<\/select>   " +
+        "<tr> " +
+        "<th class=personal-detail-th>个人简介:<\/th> " +
+        "<td class=personal-detail-td> " +
+        "<textarea name=\x22passport_userdetail\x22 id=\x22passport_userdetail\x22 class=\x22mod-cus-input mod-cus-input-4\x22>什么都不会<\/textarea>    " +
+        "<\/table> " +
+        "<input type=submit class=\x22setting-submit-btn setting-submit-ml100\x22 value=\x22保存\x22><\/form> " +
+        "<iframe id=proxy class=setting-proxy width=0 height=0 src=\/p\/setting\/profile\/proxy><\/iframe><\/div> "
+    });
+    F.use(['custom_select_birth/main', 'custom_select/main', 'custom_select_city/main',
+        'custom_input/main', 'dialog/dialogmanager', 'setting_proxy/proxy'], function (BirthControl, SelectControl, CityControl, CustomInput, dialog, Proxy) {
+        var form = P.g('profile'),
+                yearSelect = P.g('passport_birthday_year'),
+                bloodSelect = P.g('passport_blood'),
+                hometownSelect = P.g('passport_hometown_province'),
+                residesSelect = P.g('passport_reside_province'),
+                userdetail = P.g('passport_userdetail'),
+                styles = {
+                    display: 'none'
+                },
+                defaultBirthDay,
+                currentSetting = {
+                    hometown: {
+                        pro: '山东' || '请选择',
+                        city: '潍坊' || '请选择',
+                        dist: '昌邑市' || '请选择'
+                    },
+                    reside: {
+                        pro: '山东' || '请选择',
+                        city: '泰安' || '请选择',
+                        dist: '岱岳区' || '请选择'
+                    }
+                },
+                birthCtrl, bloodCtrl, hometownAddr, hometownAddrCtrl, residesAddrCtrl, userdetailCtrl,
+                succeedContainer = P.g("tiebaSaveOkMsg");
+
+        defaultBirthDay = {
+            year: '1995',
+            month: '8',
+            day: '14'
+        };
+        birthCtrl = BirthControl.init(yearSelect.parentNode, {
+            currentYear: 2017
+        });
+        birthCtrl.setBirthDate(defaultBirthDay.year, defaultBirthDay.month, defaultBirthDay.day);
+        P.setStyles(yearSelect, styles);
+
+
+        bloodCtrl = SelectControl.init(bloodSelect.parentNode, {
+            selectName: 'passport_blood',
+            optionData: [
+                {name: '未知', value: '0'},
+                {name: 'A', value: '1'},
+                {name: 'B', value: '2'},
+                {name: 'O', value: '3'},
+                {name: 'AB', value: '4'},
+                {name: '其他', value: '5'}
+            ]
+        });
+        bloodCtrl.setValue('1');
+        P.setStyles(bloodSelect, styles);
+
+        hometownAddrCtrl = CityControl.init(hometownSelect.parentNode);
+        hometownAddrCtrl.setValue(currentSetting.hometown.pro,
+                currentSetting.hometown.city, currentSetting.hometown.dist);
+        P.setStyles(hometownSelect, styles);
+
+        residesAddrCtrl = CityControl.init(residesSelect.parentNode, {
+            provinceSelName: 'passport_reside_province',
+            citySelName: 'passport_reside_city',
+            districtSelName: 'passport_reside_district'
+        });
+        residesAddrCtrl.setValue(currentSetting.reside.pro,
+                currentSetting.reside.city, currentSetting.reside.dist);
+        P.setStyles(residesSelect, styles);
+
+    });
+</script>
+<!--  全局ip  -->
+<script src="../js/globalip.js"></script>
+</body>
+</html>

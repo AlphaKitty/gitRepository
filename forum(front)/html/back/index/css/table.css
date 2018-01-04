@@ -1,0 +1,168 @@
+body {
+    font-family: arial;
+    color: #25ff00;
+}
+
+table {
+    border: 1px solid #ccc;
+    width: 80%;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin: 0 auto;
+}
+
+table tr {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+table th, table td {
+    padding: 3px;
+    text-align: center;
+    background-color: #552c6f;
+}
+
+table th {
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+@media screen and (max-width: 600px) {
+
+    table {
+        border: 0;
+    }
+
+    table thead {
+        display: none;
+    }
+
+    table tr {
+        margin-bottom: 10px;
+        display: block;
+        border-bottom: 2px solid #ddd;
+    }
+
+    table td {
+        display: block;
+        text-align: right;
+        font-size: 13px;
+        border-bottom: 1px dotted #ccc;
+    }
+
+    table td:last-child {
+        border-bottom: 0;
+    }
+
+    table td:before {
+        content: attr(data-label);
+        float: left;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+}
+
+.note{max-width: 80%; margin: 0 auto;}
+
+.update{
+    color: #0d0d0d;
+}
+
+.delete{
+    color: #0d0d0d;
+}
+
+.filedownload{
+    color: #0d0d0d;
+}
+
+
+/*控制按钮格式,这段代码挺好看*/
+.demo{
+    cursor:pointer;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #D5D5D6;
+    border-radius: 3px;
+    padding: 12px;
+    font-size: 20px;
+    color: #666;
+    text-align: center;
+}
+
+
+
+
+
+/* 错误提示弹层 */
+.c-float-modePop {
+    text-align: center;
+    background-color: #FAFAFC;
+    margin: auto;
+    width: 50%;
+    position: absolute;
+    top: 240px;
+    left: 25%;
+    height: 300px
+}
+
+/*控制弹出框大小*/
+/*.c-float-popWrap {*/
+/*width: 85%;*/
+/*z-index: 9999;*/
+/*position: fixed;*/
+/*border-radius: 3px;*/
+/*overflow: hidden;*/
+/*}*/
+
+/*控制弹出框标题*/
+.c-float-popWrap .c-float-modePop .warnMsg {
+    padding: 0.8em 0 0.8em;
+    font-size: 15px;
+    color: #333;
+}
+
+/*控制内容格式*/
+.c-float-popWrap .c-float-modePop .content {
+    padding: 0 20px;
+    font-size: 14px;
+    color: #888;
+    word-wrap: break-word;
+    word-break: break-all;
+    text-align: left;
+}
+/*控制确定和取消按钮格式*/
+.c-float-popWrap .c-float-modePop button {
+    background-color: #FAFAFC;
+    width: 20%;
+    height: 42px;
+    line-height: 42px;
+    color: #444;
+    font-size: 17px;
+    padding: 0;
+}
+
+/*控制提示格式*/
+.web_toast{
+    position: fixed;
+    margin: 0 10px;
+    z-index: 9999;
+    display: none;
+    display: block;
+    padding: 10px;
+    color: #FFFFFF;
+    background: rgba(0, 0, 0, 0.7);
+    font-size: 1.4rem;
+    text-align: center;
+    border-radius: 4px;
+}
+
+label{
+    margin: 10px 10px 10px 50px;
+}
+
+.select{
+    float:right;
+}

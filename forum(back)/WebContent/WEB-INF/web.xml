@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+	<display-name>forum</display-name>
+
+<!-- 通过contextConfigLocation配置spring,声明配置文件的位置 -->
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<!-- 如果想装入多个配置文件，可以在 <param-value>标记中用逗号作分隔符。 -->
+		<param-value>
+			classpath:config/applicationContext.xml
+		</param-value>
+	</context-param>
+
+<!-- Spring的监听器 -->
+<!-- 启动Web容器时，ContextLoaderListener自动装配ApplicationContext的配置信息 -->
+	<listener>
+		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+	</listener>
+
+<!-- 配置SpringMVC -->
+<!-- DispatcherServlet主要用作职责调度工作，本身主要用于控制流程 -->
+	<servlet>
+		<servlet-name>springDispatcherServlet</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+		<init-param>
+			<param-name>contextConfigLocation</param-name>
+			<param-value>classpath:config/springMVC.xml</param-value>
+		</init-param>
+		<!-- load-on-startup：表示启动容器时初始化该Servlet -->
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+
+<!-- url-pattern：表示哪些请求交给Spring Web MVC处理 -->
+<!-- “/” 表示拦截所有请求 -->
+<!-- 也可以如“*.html”表示拦截所有以html为扩展名的请求 -->
+	<servlet-mapping>
+		<servlet-name>springDispatcherServlet</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+
+<!-- 用来把session延迟到页面上关闭 -->
+<!-- 在M层调用持久层获取数据结束时，V层调用数据,我们希望这时的session是open着得 -->
+<!-- OpenSessionInViewFilter的主要功能是用来把一个Hibernate Session和一次完整的请求过程对应的线程相绑定 -->
+<!-- Open Session In View在request把session绑定到当前thread期间一直保持hibernate session在open状态，使session在request的整个期间都可以使用 -->
+<!-- 当View 层逻辑完成后，才会通过Filter的doFilter方法或Interceptor的postHandle方法自动关闭session -->
+	<filter>
+		<filter-name>SpringOpenSessionInViewFilter</filter-name>
+		<filter-class>org.springframework.orm.hibernate4.support.OpenSessionInViewFilter</filter-class>
+	</filter>
+
+<!-- <url-pattern>/*</url-pattern>中最好不要写/*, 因为这样的话，访问所有的url都会为其开一个session，造成性能的下降 -->
+	<filter-mapping>
+		<filter-name>SpringOpenSessionInViewFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+</web-app>

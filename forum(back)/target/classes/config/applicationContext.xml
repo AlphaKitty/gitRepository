@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:aop="http://www.springframework.org/schema/aop" 
+	xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:jaxws="http://cxf.apache.org/jaxws"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/aop
+    http://www.springframework.org/schema/aop/spring-aop-3.2.xsd
+    http://www.springframework.org/schema/tx
+    http://www.springframework.org/schema/tx/spring-tx-3.2.xsd
+	http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-tx-3.2.xsd
+    http://cxf.apache.org/jaxws 
+    http://cxf.apache.org/schemas/jaxws.xsd">
+	
+<!-- 数据源：连接池Druid -->
+	 <bean id = "dataSource" class ="com.alibaba.druid.pool.DruidDataSource" destroy-method = "close">
+       <!-- 数据库基本信息配置 -->
+       <property name="url" value="jdbc:mysql://localhost:3306/forum"/>
+       <property name = "username" value = "root" />
+       <property name = "password" value = "root" />
+       <property name = "driverClassName" value = "com.mysql.jdbc.Driver" />
+       <property name = "filters" value = "stat" />
+        <!-- 最大并发连接数 -->	
+       <property name = "maxActive" value = "20" />
+       <!-- 初始化连接数量 -->
+       <property name = "initialSize" value = "1" />
+       <!-- 配置获取连接等待超时的时间 -->
+       <property name = "maxWait" value = "10000" />
+       <!-- 最小空闲连接数 -->
+       <property name = "minIdle" value = "10" />
+       <!-- 配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒 -->
+       <property name = "timeBetweenEvictionRunsMillis" value ="60000" />
+       <!-- 配置一个连接在池中最小生存的时间，单位是毫秒 -->
+       <property name = "minEvictableIdleTimeMillis" value ="300000" />
+       <property name = "validationQuery" value = "SELECT 'x'" />
+       <property name = "testWhileIdle" value = "true" />
+       <property name = "testOnBorrow" value = "false" />
+       <property name = "testOnReturn" value = "false" />
+       <property name = "maxOpenPreparedStatements" value ="20" />
+       <!-- 打开 removeAbandoned 功能 -->
+       <property name = "removeAbandoned" value = "true" />
+       <!-- 1800 秒，也就是 30 分钟 -->
+       <property name = "removeAbandonedTimeout" value ="1800" />
+       <!-- 关闭 abanded 连接时输出错误日志 -->
+       <property name = "logAbandoned" value = "true" />
+  </bean> 
+
+<!-- SessionFactory用来创建Session,就是一次请求 -->
+	<bean id="sessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+		<property name="dataSource" ref="dataSource"></property>
+		<property name="packagesToScan" value="cn.edu.sdau.forum.po" />
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
+				<prop key="hibernate.show_sql">true</prop>
+				<prop key="hibernate.format_sql">true</prop>
+			</props>
+		</property>
+		<!-- <property name="configLocation" value="classpath:hibernate.cfg.xml"></property> -->
+	</bean>
+	
+<!-- Spring-Hibernate 事务管理器-->
+	<bean id="transactionManager"
+        class="org.springframework.orm.hibernate4.HibernateTransactionManager">
+        <property name="sessionFactory" ref="sessionFactory" />
+    </bean>
+    
+<!-- Spring 声明式事务,它以楼上transactionManager为参考 -->
+	<!-- propagation事务的传播性，isolation事务的隔离级别 -->
+	<tx:advice id="txAdvice" transaction-manager="transactionManager">
+		<tx:attributes>
+			<tx:method name="save*" rollback-for="Exception" propagation="REQUIRED"/>
+			<tx:method name="update*" rollback-for="Exception" propagation="REQUIRED"/>
+			<tx:method name="delete*" rollback-for="Exception" propagation="REQUIRED"/>
+			<tx:method name="find*" rollback-for="Exception" propagation="REQUIRED"/>
+			<tx:method name="query*" rollback-for="Exception" propagation="REQUIRED"/>
+			<tx:method name="delete*" rollback-for="Exception" propagation="REQUIRED"/>
+		</tx:attributes>
+	</tx:advice>
+	
+<!-- 使用切点表达式语言轻松定义目标方法,关联楼上txAdvice -->
+<!-- 这样这个advice就被联系到了txPointCut这个pointcut上了 -->
+	<aop:config>
+		<!-- 通过AOP定义事务增强切面 -->
+		<aop:pointcut expression="execution(public * com.dhcc.tf.service.*.*(..))"
+			id="txPointCut" />
+		<!-- 引用事务增强 -->
+		<aop:advisor advice-ref="txAdvice" pointcut-ref="txPointCut" />
+	</aop:config>
+
+<!-- 在Dao层注入SessionFactory -->
+	<bean class="cn.edu.sdau.forum.dao.UserDao" id="UserDao">
+		<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+	<bean class="cn.edu.sdau.forum.dao.PostDao" id="PostDao">
+		<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+	<bean class="cn.edu.sdau.forum.dao.ReplyDao" id="ReplyDao">
+		<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+	<bean class="cn.edu.sdau.forum.dao.UserInfoDao" id="UserInfoDao">
+		<property name="sessionFactory" ref="sessionFactory"></property>
+	</bean>
+
+<!-- 在service层中注入dao接口 -->
+	<bean class="cn.edu.sdau.forum.service.UserService" id="UserService">
+		<property name="UserDao" ref="UserDao"></property>
+	</bean>
+	<bean class="cn.edu.sdau.forum.service.PostService" id="PostService">
+		<property name="PostDao" ref="PostDao"></property>
+		<property name="UserDao" ref="UserDao"></property>
+	</bean>
+	<bean class="cn.edu.sdau.forum.service.ReplyService" id="ReplyService">
+		<property name="ReplyDao" ref="ReplyDao"></property>
+		<property name="PostDao" ref="PostDao"></property>
+		<property name="UserDao" ref="UserDao"></property>
+	</bean>
+	<bean class="cn.edu.sdau.forum.service.UserInfoService" id="UserInfoService">
+		<property name="UserInfoDao" ref="UserInfoDao"></property>
+	</bean>
+</beans>
